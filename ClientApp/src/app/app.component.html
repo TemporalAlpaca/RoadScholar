@@ -1,14 +1,11 @@
 <div class='container-fluid'>
   <div class='row'>
     <div class='col-sm-3'>
+      <app-nav-menu></app-nav-menu>
     </div>
     <div class='col-sm-9 body-content'>
-      <h1>{{ title }}</h1>
-      <!-- this creates a google map on the page with the given lat/lng from -->
-      <!-- the component as the initial center of the map: -->
-      <agm-map [latitude]="lat" [longitude]="lng">
-        <agm-marker [latitude]="lat" [longitude]="lng"></agm-marker>
-      </agm-map>
+      <router-outlet></router-outlet>
+      <agm-map [latitude]="lat" [longitude]="lng"></agm-map>
     </div>
   </div>
 </div>

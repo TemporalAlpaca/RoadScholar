@@ -26,7 +26,7 @@ import { CounterComponent } from './counter/counter.component';
     CommonModule,
     FormsModule,
     AgmCoreModule.forRoot({
-      apiKey: 'nice try'
+      apiKey: 'Nice Try'
     }),
     RouterModule.forRoot([
       { path: '', component: HomeComponent, pathMatch: 'full' },

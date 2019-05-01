@@ -6,6 +6,8 @@ using System.Net.Http.Headers;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Dynastream.Fit;
+using Newtonsoft.Json;
+using Microsoft.AspNetCore.JsonPatch;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
@@ -24,7 +26,6 @@ namespace road_scholar.Controllers
 
         static Dictionary<ushort, int> mesgCounts = new Dictionary<ushort, int>();
         static Route route = new Route();
-        static string testFile = @"C:\Users\Caleb\Documents\Dot Net Projects\RoadScholar\Garmin Runs\8B6G0945.FIT";
 
         // GET: api/<controller>
         [HttpGet]
@@ -74,7 +75,8 @@ namespace road_scholar.Controllers
                         file.CopyTo(stream);
                     }
                     //Process the uploaded fit file
-                    ProcessFitFile(fileName);
+                    ProcessFitFile(fullPath);
+                    JsonConvert.SerializeObject(route.getCoordinatePoints());
 
                     return Ok(new { dbPath });
                 }
@@ -93,46 +95,53 @@ namespace road_scholar.Controllers
         //These points will be displayed on the map.
         static void OnMesg(object sender, MesgEventArgs e)
         {
-            CoordinatePoint coordinatePoint = new CoordinatePoint();
-            foreach (Field field in e.mesg.Fields)
+            try
             {
-                for (int i = 0; i < field.GetNumValues(); i++)
+                CoordinatePoint coordinatePoint = new CoordinatePoint();
+                foreach (Field field in e.mesg.Fields)
                 {
-                    //Use switch statement to set value on the coordinatePoint.
-                    switch(field.GetName())
+                    for (int i = 0; i < field.GetNumValues(); i++)
                     {
-                        case LATITUDE:
-                            coordinatePoint.latitude = reformatLatLong(field.GetValue(i).ToString());
-                            break;
+                        //Use switch statement to set value on the coordinatePoint.
+                        switch (field.GetName())
+                        {
+                            case LATITUDE:
+                                coordinatePoint.latitude = reformatLatLong(field.GetValue(i).ToString());
+                                break;
 
-                        case LONGITUDE:
-                            coordinatePoint.longitude = reformatLatLong(field.GetValue(i).ToString());
-                            break;
+                            case LONGITUDE:
+                                coordinatePoint.longitude = reformatLatLong(field.GetValue(i).ToString());
+                                break;
 
-                        case TIMESTAMP:
-                            coordinatePoint.timeStamp = field.GetValue(i).ToString();
-                            break;
+                            case TIMESTAMP:
+                                coordinatePoint.timeStamp = double.Parse(field.GetValue(i).ToString());
+                                break;
 
-                        case DISTANCE:
-                            coordinatePoint.distance = field.GetValue(i).ToString();
-                            break;
+                            case DISTANCE:
+                                coordinatePoint.distance = double.Parse(field.GetValue(i).ToString());
+                                break;
 
-                        case SPEED:
-                            coordinatePoint.speed = field.GetValue(i).ToString();
-                            break;
+                            case SPEED:
+                                coordinatePoint.speed = double.Parse(field.GetValue(i).ToString());
+                                break;
 
-                        case HEARTRATE:
-                            coordinatePoint.heartRate = field.GetValue(i).ToString();
-                            break;
+                            case HEARTRATE:
+                                coordinatePoint.heartRate = double.Parse(field.GetValue(i).ToString());
+                                break;
 
-                        default:
-                            //do nothing :)
-                            break;
+                            default:
+                                //do nothing :)
+                                break;
+                        }
                     }
                 }
+                if (coordinatePoint.HasLatLong())
+                    route.addCoordinatePoint(coordinatePoint);
             }
-            if(coordinatePoint.HasLatLong())
-                route.addCoordinatePoint(coordinatePoint);
+            catch(Exception ex)
+            {
+                Console.WriteLine("Error parsing double for JSON." + ex.Message);
+            }
         }
 
         static private void ProcessFitFile(string fileName)
@@ -140,7 +149,7 @@ namespace road_scholar.Controllers
             try
             {
                 Decode decodeFit = new Decode();
-                FileStream fitSource = new FileStream(testFile, FileMode.Open);
+                FileStream fitSource = new FileStream(fileName, FileMode.Open);
                 // Attempt to open .FIT file
 
                 Decode decodeDemo = new Decode();
@@ -187,12 +196,21 @@ namespace road_scholar.Controllers
         }
 
         //This function adds a decimal place to the latitude and longitude strings if needed.
-        static string reformatLatLong(string coord)
+        static double reformatLatLong(string coord)
         {
-            if(!coord.Contains('.'))
-                return coord.Insert(coord.Length - LATLONGOFFSET, ".");
+            try
+            {
+                double semicircleValue = double.Parse(coord);
 
-            return coord;
+                //Convert coordinate value from semicircle to lat/long value
+                //Formula is (180 / 2^31) * semicircle value = degrees
+                return (180 / (Math.Pow(2, 31))) * semicircleValue;
+                
+            }
+            catch(Exception e)
+            {
+                return 0;
+            }
         }
     }
 }

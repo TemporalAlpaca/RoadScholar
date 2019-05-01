@@ -7,19 +7,19 @@ namespace road_scholar
 {
     public class CoordinatePoint
     {
-        public string latitude { get; set; }
-        public string longitude { get; set; }
-        public string timeStamp { get; set; }
+        public double latitude { get; set; }
+        public double longitude { get; set; }
+        public double timeStamp { get; set; }
 
         //TODO: Update these to the appropriate data types
-        public string distance { get; set; }
-        public string speed { get; set; }
-        public string heartRate { get; set; }
+        public double distance { get; set; }
+        public double speed { get; set; }
+        public double heartRate { get; set; }
 
         public bool HasLatLong()
         {
-            return latitude != null && latitude != "" 
-                && longitude != null && longitude != "";
+            return latitude != 0
+                && longitude != 0;
         }
     }
 }

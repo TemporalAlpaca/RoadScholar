@@ -5,7 +5,15 @@
     </div>
     <div class='col-sm-9 body-content'>
       <router-outlet></router-outlet>
-      <agm-map [latitude]="lat" [longitude]="lng"></agm-map>
+      <agm-map [latitude]="lat" [longitude]="lng">
+        <agm-polyline>
+          <agm-polyline-point
+                               *ngFor="let p of points"
+                               [latitude]="p.latitude"
+                               [longitude]="p.longitude">
+          </agm-polyline-point>
+        </agm-polyline>
+      </agm-map>
     </div>
   </div>
 </div>

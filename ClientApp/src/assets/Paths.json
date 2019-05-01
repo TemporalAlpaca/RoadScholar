@@ -1,0 +1,4226 @@
+[
+  {
+    "latitude": 44.918773071840405,
+    "longitude": -123.05842719040811,
+    "timeStamp": 924031156.0,
+    "distance": 1.41,
+    "speed": 1.409,
+    "heartRate": 90.0
+  },
+  {
+    "latitude": 44.918787656351924,
+    "longitude": -123.05843381211162,
+    "timeStamp": 924031157.0,
+    "distance": 2.82,
+    "speed": 1.409,
+    "heartRate": 90.0
+  },
+  {
+    "latitude": 44.918816825374961,
+    "longitude": -123.05841704830527,
+    "timeStamp": 924031159.0,
+    "distance": 4.6,
+    "speed": 1.465,
+    "heartRate": 90.0
+  },
+  {
+    "latitude": 44.919011956080794,
+    "longitude": -123.05833549238741,
+    "timeStamp": 924031167.0,
+    "distance": 27.17,
+    "speed": 3.574,
+    "heartRate": 91.0
+  },
+  {
+    "latitude": 44.919102480635047,
+    "longitude": -123.0583100952208,
+    "timeStamp": 924031170.0,
+    "distance": 37.34,
+    "speed": 3.49,
+    "heartRate": 94.0
+  },
+  {
+    "latitude": 44.919205494225025,
+    "longitude": -123.0582757294178,
+    "timeStamp": 924031173.0,
+    "distance": 49.04,
+    "speed": 3.574,
+    "heartRate": 97.0
+  },
+  {
+    "latitude": 44.9192360881716,
+    "longitude": -123.05826122872531,
+    "timeStamp": 924031174.0,
+    "distance": 52.62,
+    "speed": 3.602,
+    "heartRate": 104.0
+  },
+  {
+    "latitude": 44.919262826442719,
+    "longitude": -123.05824312381446,
+    "timeStamp": 924031175.0,
+    "distance": 55.91,
+    "speed": 3.602,
+    "heartRate": 104.0
+  },
+  {
+    "latitude": 44.919290989637375,
+    "longitude": -123.05822334252298,
+    "timeStamp": 924031176.0,
+    "distance": 59.4,
+    "speed": 3.574,
+    "heartRate": 108.0
+  },
+  {
+    "latitude": 44.919315380975604,
+    "longitude": -123.05819861590862,
+    "timeStamp": 924031177.0,
+    "distance": 62.73,
+    "speed": 3.546,
+    "heartRate": 111.0
+  },
+  {
+    "latitude": 44.919339017942548,
+    "longitude": -123.05817145854235,
+    "timeStamp": 924031178.0,
+    "distance": 66.12,
+    "speed": 3.508,
+    "heartRate": 111.0
+  },
+  {
+    "latitude": 44.919384280219674,
+    "longitude": -123.05811379104853,
+    "timeStamp": 924031180.0,
+    "distance": 72.9,
+    "speed": 3.48,
+    "heartRate": 114.0
+  },
+  {
+    "latitude": 44.919407665729523,
+    "longitude": -123.05808596313,
+    "timeStamp": 924031181.0,
+    "distance": 76.29,
+    "speed": 3.471,
+    "heartRate": 120.0
+  },
+  {
+    "latitude": 44.9194311350584,
+    "longitude": -123.0580566264689,
+    "timeStamp": 924031182.0,
+    "distance": 79.77,
+    "speed": 3.452,
+    "heartRate": 120.0
+  },
+  {
+    "latitude": 44.919454772025347,
+    "longitude": -123.05802402086556,
+    "timeStamp": 924031183.0,
+    "distance": 83.45,
+    "speed": 3.452,
+    "heartRate": 123.0
+  },
+  {
+    "latitude": 44.919477989897132,
+    "longitude": -123.05799141526222,
+    "timeStamp": 924031184.0,
+    "distance": 87.09,
+    "speed": 3.443,
+    "heartRate": 126.0
+  },
+  {
+    "latitude": 44.919501123949885,
+    "longitude": -123.05796015076339,
+    "timeStamp": 924031185.0,
+    "distance": 90.65,
+    "speed": 3.443,
+    "heartRate": 126.0
+  },
+  {
+    "latitude": 44.91964646615088,
+    "longitude": -123.05779670365155,
+    "timeStamp": 924031191.0,
+    "distance": 111.38,
+    "speed": 3.415,
+    "heartRate": 127.0
+  },
+  {
+    "latitude": 44.919669348746538,
+    "longitude": -123.05777952075005,
+    "timeStamp": 924031192.0,
+    "distance": 114.26,
+    "speed": 3.396,
+    "heartRate": 130.0
+  },
+  {
+    "latitude": 44.919856768101454,
+    "longitude": -123.05787364952266,
+    "timeStamp": 924031199.0,
+    "distance": 137.37,
+    "speed": 3.35,
+    "heartRate": 130.0
+  },
+  {
+    "latitude": 44.919936982914805,
+    "longitude": -123.05791983380914,
+    "timeStamp": 924031202.0,
+    "distance": 147.2,
+    "speed": 3.34,
+    "heartRate": 129.0
+  },
+  {
+    "latitude": 44.919989202171564,
+    "longitude": -123.05787432007492,
+    "timeStamp": 924031204.0,
+    "distance": 154.15,
+    "speed": 3.331,
+    "heartRate": 132.0
+  },
+  {
+    "latitude": 44.920120714232326,
+    "longitude": -123.05767776444554,
+    "timeStamp": 924031210.0,
+    "distance": 175.46,
+    "speed": 3.35,
+    "heartRate": 133.0
+  },
+  {
+    "latitude": 44.920163881033659,
+    "longitude": -123.05759143084288,
+    "timeStamp": 924031213.0,
+    "distance": 183.82,
+    "speed": 3.322,
+    "heartRate": 139.0
+  },
+  {
+    "latitude": 44.92017368786037,
+    "longitude": -123.05755966342986,
+    "timeStamp": 924031214.0,
+    "distance": 186.56,
+    "speed": 3.294,
+    "heartRate": 138.0
+  },
+  {
+    "latitude": 44.920244347304106,
+    "longitude": -123.05732195265591,
+    "timeStamp": 924031221.0,
+    "distance": 207.44,
+    "speed": 3.238,
+    "heartRate": 141.0
+  },
+  {
+    "latitude": 44.920416427776217,
+    "longitude": -123.05718700401485,
+    "timeStamp": 924031230.0,
+    "distance": 229.51,
+    "speed": 3.088,
+    "heartRate": 143.0
+  },
+  {
+    "latitude": 44.920441322028637,
+    "longitude": -123.05711785331368,
+    "timeStamp": 924031233.0,
+    "distance": 235.84,
+    "speed": 2.995,
+    "heartRate": 140.0
+  },
+  {
+    "latitude": 44.920441405847669,
+    "longitude": -123.05708566680551,
+    "timeStamp": 924031234.0,
+    "distance": 238.35,
+    "speed": 2.967,
+    "heartRate": 137.0
+  },
+  {
+    "latitude": 44.920438639819622,
+    "longitude": -123.05705012753606,
+    "timeStamp": 924031235.0,
+    "distance": 241.15,
+    "speed": 2.948,
+    "heartRate": 137.0
+  },
+  {
+    "latitude": 44.920467976480722,
+    "longitude": -123.05680017918348,
+    "timeStamp": 924031242.0,
+    "distance": 261.19,
+    "speed": 2.976,
+    "heartRate": 137.0
+  },
+  {
+    "latitude": 44.920571409165859,
+    "longitude": -123.05656389333308,
+    "timeStamp": 924031249.0,
+    "distance": 283.07,
+    "speed": 2.995,
+    "heartRate": 139.0
+  },
+  {
+    "latitude": 44.920699568465352,
+    "longitude": -123.05635208263993,
+    "timeStamp": 924031257.0,
+    "distance": 305.13,
+    "speed": 3.032,
+    "heartRate": 140.0
+  },
+  {
+    "latitude": 44.920748099684715,
+    "longitude": -123.05626700632274,
+    "timeStamp": 924031261.0,
+    "distance": 313.78,
+    "speed": 2.939,
+    "heartRate": 146.0
+  },
+  {
+    "latitude": 44.9207575712353,
+    "longitude": -123.05624546483159,
+    "timeStamp": 924031262.0,
+    "distance": 315.76,
+    "speed": 2.902,
+    "heartRate": 148.0
+  },
+  {
+    "latitude": 44.920875588431954,
+    "longitude": -123.05600549094379,
+    "timeStamp": 924031268.0,
+    "distance": 337.09,
+    "speed": 3.051,
+    "heartRate": 148.0
+  },
+  {
+    "latitude": 44.920914731919765,
+    "longitude": -123.05591706186533,
+    "timeStamp": 924031270.0,
+    "distance": 344.76,
+    "speed": 3.163,
+    "heartRate": 151.0
+  },
+  {
+    "latitude": 44.920979188755155,
+    "longitude": -123.05574087426066,
+    "timeStamp": 924031274.0,
+    "distance": 360.05,
+    "speed": 3.182,
+    "heartRate": 154.0
+  },
+  {
+    "latitude": 44.921038281172514,
+    "longitude": -123.05552453733981,
+    "timeStamp": 924031280.0,
+    "distance": 378.44,
+    "speed": 3.116,
+    "heartRate": 160.0
+  },
+  {
+    "latitude": 44.921049093827605,
+    "longitude": -123.05550056509674,
+    "timeStamp": 924031281.0,
+    "distance": 380.68,
+    "speed": 3.098,
+    "heartRate": 160.0
+  },
+  {
+    "latitude": 44.921202398836613,
+    "longitude": -123.0553072784096,
+    "timeStamp": 924031289.0,
+    "distance": 403.59,
+    "speed": 2.976,
+    "heartRate": 158.0
+  },
+  {
+    "latitude": 44.921343298628926,
+    "longitude": -123.05514441803098,
+    "timeStamp": 924031295.0,
+    "distance": 423.86,
+    "speed": 3.014,
+    "heartRate": 156.0
+  },
+  {
+    "latitude": 44.92140943184495,
+    "longitude": -123.05490025319159,
+    "timeStamp": 924031301.0,
+    "distance": 444.97,
+    "speed": 3.06,
+    "heartRate": 153.0
+  },
+  {
+    "latitude": 44.921411443501711,
+    "longitude": -123.05462624877691,
+    "timeStamp": 924031309.0,
+    "distance": 466.43,
+    "speed": 2.939,
+    "heartRate": 153.0
+  },
+  {
+    "latitude": 44.921404486522079,
+    "longitude": -123.054438829422,
+    "timeStamp": 924031315.0,
+    "distance": 481.17,
+    "speed": 2.79,
+    "heartRate": 150.0
+  },
+  {
+    "latitude": 44.921416388824582,
+    "longitude": -123.05416172370315,
+    "timeStamp": 924031322.0,
+    "distance": 503.08,
+    "speed": 2.827,
+    "heartRate": 148.0
+  },
+  {
+    "latitude": 44.921491323038936,
+    "longitude": -123.05390733294189,
+    "timeStamp": 924031328.0,
+    "distance": 523.32,
+    "speed": 2.893,
+    "heartRate": 146.0
+  },
+  {
+    "latitude": 44.921543458476663,
+    "longitude": -123.05363475345075,
+    "timeStamp": 924031335.0,
+    "distance": 544.49,
+    "speed": 2.865,
+    "heartRate": 146.0
+  },
+  {
+    "latitude": 44.921571537852287,
+    "longitude": -123.05341573432088,
+    "timeStamp": 924031340.0,
+    "distance": 561.96,
+    "speed": 2.893,
+    "heartRate": 149.0
+  },
+  {
+    "latitude": 44.921520324423909,
+    "longitude": -123.05314457975328,
+    "timeStamp": 924031347.0,
+    "distance": 584.21,
+    "speed": 2.967,
+    "heartRate": 149.0
+  },
+  {
+    "latitude": 44.921464081853628,
+    "longitude": -123.05288943462074,
+    "timeStamp": 924031355.0,
+    "distance": 605.34,
+    "speed": 2.902,
+    "heartRate": 147.0
+  },
+  {
+    "latitude": 44.921444887295365,
+    "longitude": -123.0526065453887,
+    "timeStamp": 924031363.0,
+    "distance": 627.92,
+    "speed": 2.902,
+    "heartRate": 148.0
+  },
+  {
+    "latitude": 44.921446312218904,
+    "longitude": -123.05232491344213,
+    "timeStamp": 924031370.0,
+    "distance": 650.16,
+    "speed": 2.939,
+    "heartRate": 149.0
+  },
+  {
+    "latitude": 44.92144220508635,
+    "longitude": -123.05205426178873,
+    "timeStamp": 924031376.0,
+    "distance": 671.53,
+    "speed": 3.032,
+    "heartRate": 149.0
+  },
+  {
+    "latitude": 44.92142653092742,
+    "longitude": -123.05177229456604,
+    "timeStamp": 924031382.0,
+    "distance": 693.8,
+    "speed": 3.088,
+    "heartRate": 147.0
+  },
+  {
+    "latitude": 44.92140457034111,
+    "longitude": -123.05151840671897,
+    "timeStamp": 924031387.0,
+    "distance": 713.84,
+    "speed": 3.219,
+    "heartRate": 147.0
+  },
+  {
+    "latitude": 44.9213894829154,
+    "longitude": -123.05124976672232,
+    "timeStamp": 924031393.0,
+    "distance": 735.15,
+    "speed": 3.284,
+    "heartRate": 147.0
+  },
+  {
+    "latitude": 44.921385459601879,
+    "longitude": -123.05099596269429,
+    "timeStamp": 924031399.0,
+    "distance": 755.2,
+    "speed": 3.303,
+    "heartRate": 145.0
+  },
+  {
+    "latitude": 44.921374395489693,
+    "longitude": -123.05074182339013,
+    "timeStamp": 924031405.0,
+    "distance": 775.31,
+    "speed": 3.322,
+    "heartRate": 145.0
+  },
+  {
+    "latitude": 44.921368528157473,
+    "longitude": -123.05045055225492,
+    "timeStamp": 924031412.0,
+    "distance": 798.33,
+    "speed": 3.34,
+    "heartRate": 145.0
+  },
+  {
+    "latitude": 44.921345477923751,
+    "longitude": -123.05019875988364,
+    "timeStamp": 924031418.0,
+    "distance": 818.39,
+    "speed": 3.331,
+    "heartRate": 147.0
+  },
+  {
+    "latitude": 44.921323768794537,
+    "longitude": -123.04992232471704,
+    "timeStamp": 924031425.0,
+    "distance": 840.36,
+    "speed": 3.294,
+    "heartRate": 147.0
+  },
+  {
+    "latitude": 44.921320583671331,
+    "longitude": -123.04966776631773,
+    "timeStamp": 924031431.0,
+    "distance": 860.42,
+    "speed": 3.303,
+    "heartRate": 146.0
+  },
+  {
+    "latitude": 44.921348914504051,
+    "longitude": -123.04940415546298,
+    "timeStamp": 924031437.0,
+    "distance": 881.55,
+    "speed": 3.303,
+    "heartRate": 145.0
+  },
+  {
+    "latitude": 44.9213429633528,
+    "longitude": -123.04913006722927,
+    "timeStamp": 924031443.0,
+    "distance": 903.31,
+    "speed": 3.35,
+    "heartRate": 147.0
+  },
+  {
+    "latitude": 44.921342460438609,
+    "longitude": -123.04883904755116,
+    "timeStamp": 924031449.0,
+    "distance": 926.31,
+    "speed": 3.406,
+    "heartRate": 147.0
+  },
+  {
+    "latitude": 44.921366767957807,
+    "longitude": -123.04856462404132,
+    "timeStamp": 924031455.0,
+    "distance": 948.15,
+    "speed": 3.443,
+    "heartRate": 145.0
+  },
+  {
+    "latitude": 44.921370958909392,
+    "longitude": -123.04828517138958,
+    "timeStamp": 924031461.0,
+    "distance": 970.17,
+    "speed": 3.48,
+    "heartRate": 146.0
+  },
+  {
+    "latitude": 44.9213704559952,
+    "longitude": -123.04800219833851,
+    "timeStamp": 924031467.0,
+    "distance": 992.51,
+    "speed": 3.499,
+    "heartRate": 142.0
+  },
+  {
+    "latitude": 44.92136643268168,
+    "longitude": -123.04780974984169,
+    "timeStamp": 924031471.0,
+    "distance": 1007.7,
+    "speed": 3.527,
+    "heartRate": 145.0
+  },
+  {
+    "latitude": 44.921368947252631,
+    "longitude": -123.04752686060965,
+    "timeStamp": 924031477.0,
+    "distance": 1030.0,
+    "speed": 3.555,
+    "heartRate": 144.0
+  },
+  {
+    "latitude": 44.921365762129426,
+    "longitude": -123.04725042544305,
+    "timeStamp": 924031483.0,
+    "distance": 1051.83,
+    "speed": 3.564,
+    "heartRate": 143.0
+  },
+  {
+    "latitude": 44.921368611976504,
+    "longitude": -123.04695068858564,
+    "timeStamp": 924031489.0,
+    "distance": 1075.47,
+    "speed": 3.602,
+    "heartRate": 143.0
+  },
+  {
+    "latitude": 44.921362744644284,
+    "longitude": -123.04666377604008,
+    "timeStamp": 924031495.0,
+    "distance": 1098.12,
+    "speed": 3.63,
+    "heartRate": 145.0
+  },
+  {
+    "latitude": 44.921342125162482,
+    "longitude": -123.04638851433992,
+    "timeStamp": 924031501.0,
+    "distance": 1119.95,
+    "speed": 3.639,
+    "heartRate": 145.0
+  },
+  {
+    "latitude": 44.921342376619577,
+    "longitude": -123.04609975777566,
+    "timeStamp": 924031507.0,
+    "distance": 1142.78,
+    "speed": 3.648,
+    "heartRate": 143.0
+  },
+  {
+    "latitude": 44.921346232295036,
+    "longitude": -123.04583539254963,
+    "timeStamp": 924031512.0,
+    "distance": 1163.62,
+    "speed": 3.686,
+    "heartRate": 145.0
+  },
+  {
+    "latitude": 44.921342041343451,
+    "longitude": -123.04558142088354,
+    "timeStamp": 924031517.0,
+    "distance": 1183.68,
+    "speed": 3.732,
+    "heartRate": 146.0
+  },
+  {
+    "latitude": 44.92134346626699,
+    "longitude": -123.04548905231059,
+    "timeStamp": 924031519.0,
+    "distance": 1190.97,
+    "speed": 3.742,
+    "heartRate": 150.0
+  },
+  {
+    "latitude": 44.9213395267725,
+    "longitude": -123.04523223079741,
+    "timeStamp": 924031524.0,
+    "distance": 1211.23,
+    "speed": 3.798,
+    "heartRate": 152.0
+  },
+  {
+    "latitude": 44.921333659440279,
+    "longitude": -123.04508454166353,
+    "timeStamp": 924031527.0,
+    "distance": 1222.91,
+    "speed": 3.826,
+    "heartRate": 156.0
+  },
+  {
+    "latitude": 44.921337012201548,
+    "longitude": -123.04489728994668,
+    "timeStamp": 924031531.0,
+    "distance": 1237.73,
+    "speed": 3.835,
+    "heartRate": 158.0
+  },
+  {
+    "latitude": 44.921347489580512,
+    "longitude": -123.04482076317072,
+    "timeStamp": 924031535.0,
+    "distance": 1239.05,
+    "speed": 2.127,
+    "heartRate": 158.0
+  },
+  {
+    "latitude": 44.921319410204887,
+    "longitude": -123.04463552311063,
+    "timeStamp": 924031539.0,
+    "distance": 1253.88,
+    "speed": 4.152,
+    "heartRate": 155.0
+  },
+  {
+    "latitude": 44.921287558972836,
+    "longitude": -123.04437601938844,
+    "timeStamp": 924031544.0,
+    "distance": 1274.55,
+    "speed": 3.732,
+    "heartRate": 155.0
+  },
+  {
+    "latitude": 44.921284206211567,
+    "longitude": -123.04427493363619,
+    "timeStamp": 924031546.0,
+    "distance": 1282.53,
+    "speed": 3.77,
+    "heartRate": 161.0
+  },
+  {
+    "latitude": 44.921305160969496,
+    "longitude": -123.0439948104322,
+    "timeStamp": 924031552.0,
+    "distance": 1304.9,
+    "speed": 3.639,
+    "heartRate": 160.0
+  },
+  {
+    "latitude": 44.921282613649964,
+    "longitude": -123.04373153485358,
+    "timeStamp": 924031557.0,
+    "distance": 1325.86,
+    "speed": 3.76,
+    "heartRate": 157.0
+  },
+  {
+    "latitude": 44.921236177906394,
+    "longitude": -123.04343733005226,
+    "timeStamp": 924031563.0,
+    "distance": 1349.66,
+    "speed": 3.882,
+    "heartRate": 155.0
+  },
+  {
+    "latitude": 44.9212443921715,
+    "longitude": -123.04318042472005,
+    "timeStamp": 924031568.0,
+    "distance": 1369.97,
+    "speed": 3.882,
+    "heartRate": 154.0
+  },
+  {
+    "latitude": 44.921268867328763,
+    "longitude": -123.04290591739118,
+    "timeStamp": 924031573.0,
+    "distance": 1391.93,
+    "speed": 3.984,
+    "heartRate": 154.0
+  },
+  {
+    "latitude": 44.921264257282019,
+    "longitude": -123.04263350553811,
+    "timeStamp": 924031578.0,
+    "distance": 1413.45,
+    "speed": 4.031,
+    "heartRate": 153.0
+  },
+  {
+    "latitude": 44.921246320009232,
+    "longitude": -123.04233536124229,
+    "timeStamp": 924031584.0,
+    "distance": 1437.03,
+    "speed": 4.012,
+    "heartRate": 156.0
+  },
+  {
+    "latitude": 44.921236094087362,
+    "longitude": -123.04219638928771,
+    "timeStamp": 924031587.0,
+    "distance": 1448.06,
+    "speed": 3.984,
+    "heartRate": 153.0
+  },
+  {
+    "latitude": 44.921236345544457,
+    "longitude": -123.04215070791543,
+    "timeStamp": 924031588.0,
+    "distance": 1451.66,
+    "speed": 3.975,
+    "heartRate": 148.0
+  },
+  {
+    "latitude": 44.921232657507062,
+    "longitude": -123.04210779257119,
+    "timeStamp": 924031589.0,
+    "distance": 1455.07,
+    "speed": 3.956,
+    "heartRate": 149.0
+  },
+  {
+    "latitude": 44.921230813488364,
+    "longitude": -123.04206445813179,
+    "timeStamp": 924031590.0,
+    "distance": 1458.49,
+    "speed": 3.947,
+    "heartRate": 152.0
+  },
+  {
+    "latitude": 44.921228718012571,
+    "longitude": -123.04192909039557,
+    "timeStamp": 924031593.0,
+    "distance": 1469.16,
+    "speed": 3.91,
+    "heartRate": 155.0
+  },
+  {
+    "latitude": 44.921225784346461,
+    "longitude": -123.04179975762963,
+    "timeStamp": 924031596.0,
+    "distance": 1479.37,
+    "speed": 3.844,
+    "heartRate": 158.0
+  },
+  {
+    "latitude": 44.921331983059645,
+    "longitude": -123.04159825667739,
+    "timeStamp": 924031601.0,
+    "distance": 1500.59,
+    "speed": 3.863,
+    "heartRate": 160.0
+  },
+  {
+    "latitude": 44.921531472355127,
+    "longitude": -123.0416046269238,
+    "timeStamp": 924031607.0,
+    "distance": 1522.89,
+    "speed": 3.872,
+    "heartRate": 159.0
+  },
+  {
+    "latitude": 44.921726603060961,
+    "longitude": -123.04161141626537,
+    "timeStamp": 924031613.0,
+    "distance": 1544.57,
+    "speed": 3.835,
+    "heartRate": 159.0
+  },
+  {
+    "latitude": 44.921855181455612,
+    "longitude": -123.04160999134183,
+    "timeStamp": 924031617.0,
+    "distance": 1558.86,
+    "speed": 3.807,
+    "heartRate": 162.0
+  },
+  {
+    "latitude": 44.922060454264283,
+    "longitude": -123.041602531448,
+    "timeStamp": 924031624.0,
+    "distance": 1581.7,
+    "speed": 3.76,
+    "heartRate": 162.0
+  },
+  {
+    "latitude": 44.922267235815525,
+    "longitude": -123.04159356281161,
+    "timeStamp": 924031630.0,
+    "distance": 1604.71,
+    "speed": 3.742,
+    "heartRate": 162.0
+  },
+  {
+    "latitude": 44.922331692650914,
+    "longitude": -123.04159381426871,
+    "timeStamp": 924031632.0,
+    "distance": 1611.87,
+    "speed": 3.723,
+    "heartRate": 162.0
+  },
+  {
+    "latitude": 44.922522883862257,
+    "longitude": -123.04158291779459,
+    "timeStamp": 924031637.0,
+    "distance": 1633.13,
+    "speed": 3.76,
+    "heartRate": 162.0
+  },
+  {
+    "latitude": 44.922629166394472,
+    "longitude": -123.04157864302397,
+    "timeStamp": 924031640.0,
+    "distance": 1644.94,
+    "speed": 3.76,
+    "heartRate": 159.0
+  },
+  {
+    "latitude": 44.922729916870594,
+    "longitude": -123.04157629609108,
+    "timeStamp": 924031643.0,
+    "distance": 1656.14,
+    "speed": 3.76,
+    "heartRate": 156.0
+  },
+  {
+    "latitude": 44.9229368660599,
+    "longitude": -123.04157939739525,
+    "timeStamp": 924031649.0,
+    "distance": 1679.13,
+    "speed": 3.77,
+    "heartRate": 156.0
+  },
+  {
+    "latitude": 44.923134092241526,
+    "longitude": -123.04157512262464,
+    "timeStamp": 924031655.0,
+    "distance": 1701.07,
+    "speed": 3.76,
+    "heartRate": 157.0
+  },
+  {
+    "latitude": 44.92331706918776,
+    "longitude": -123.04156397469342,
+    "timeStamp": 924031661.0,
+    "distance": 1721.43,
+    "speed": 3.723,
+    "heartRate": 157.0
+  },
+  {
+    "latitude": 44.923529969528317,
+    "longitude": -123.04156062193215,
+    "timeStamp": 924031667.0,
+    "distance": 1745.07,
+    "speed": 3.732,
+    "heartRate": 157.0
+  },
+  {
+    "latitude": 44.923724681138992,
+    "longitude": -123.04155089892447,
+    "timeStamp": 924031673.0,
+    "distance": 1766.72,
+    "speed": 3.732,
+    "heartRate": 157.0
+  },
+  {
+    "latitude": 44.923910927027464,
+    "longitude": -123.04154578596354,
+    "timeStamp": 924031679.0,
+    "distance": 1787.39,
+    "speed": 3.686,
+    "heartRate": 155.0
+  },
+  {
+    "latitude": 44.924120726063848,
+    "longitude": -123.04150337353349,
+    "timeStamp": 924031685.0,
+    "distance": 1810.93,
+    "speed": 3.695,
+    "heartRate": 155.0
+  },
+  {
+    "latitude": 44.924315772950649,
+    "longitude": -123.04148057475686,
+    "timeStamp": 924031691.0,
+    "distance": 1832.67,
+    "speed": 3.695,
+    "heartRate": 153.0
+  },
+  {
+    "latitude": 44.924502521753311,
+    "longitude": -123.04146557115018,
+    "timeStamp": 924031697.0,
+    "distance": 1853.46,
+    "speed": 3.676,
+    "heartRate": 153.0
+  },
+  {
+    "latitude": 44.924670914188027,
+    "longitude": -123.04145702160895,
+    "timeStamp": 924031702.0,
+    "distance": 1872.19,
+    "speed": 3.667,
+    "heartRate": 156.0
+  },
+  {
+    "latitude": 44.924865541979671,
+    "longitude": -123.04146565496922,
+    "timeStamp": 924031708.0,
+    "distance": 1893.83,
+    "speed": 3.667,
+    "heartRate": 158.0
+  },
+  {
+    "latitude": 44.925070898607373,
+    "longitude": -123.04145148955286,
+    "timeStamp": 924031714.0,
+    "distance": 1916.67,
+    "speed": 3.676,
+    "heartRate": 159.0
+  },
+  {
+    "latitude": 44.925275333225727,
+    "longitude": -123.04143556393683,
+    "timeStamp": 924031720.0,
+    "distance": 1939.43,
+    "speed": 3.686,
+    "heartRate": 157.0
+  },
+  {
+    "latitude": 44.925482198596,
+    "longitude": -123.04143858142197,
+    "timeStamp": 924031727.0,
+    "distance": 1962.43,
+    "speed": 3.648,
+    "heartRate": 159.0
+  },
+  {
+    "latitude": 44.925677161663771,
+    "longitude": -123.04141687229276,
+    "timeStamp": 924031732.0,
+    "distance": 1984.15,
+    "speed": 3.658,
+    "heartRate": 159.0
+  },
+  {
+    "latitude": 44.9258881341666,
+    "longitude": -123.04139021784067,
+    "timeStamp": 924031738.0,
+    "distance": 2007.68,
+    "speed": 3.676,
+    "heartRate": 156.0
+  },
+  {
+    "latitude": 44.926098939031363,
+    "longitude": -123.04137320257723,
+    "timeStamp": 924031744.0,
+    "distance": 2031.15,
+    "speed": 3.714,
+    "heartRate": 156.0
+  },
+  {
+    "latitude": 44.926280910149217,
+    "longitude": -123.04135736078024,
+    "timeStamp": 924031749.0,
+    "distance": 2051.42,
+    "speed": 3.742,
+    "heartRate": 155.0
+  },
+  {
+    "latitude": 44.926465982571244,
+    "longitude": -123.04133079014719,
+    "timeStamp": 924031754.0,
+    "distance": 2072.15,
+    "speed": 3.798,
+    "heartRate": 155.0
+  },
+  {
+    "latitude": 44.926663124933839,
+    "longitude": -123.04127471521497,
+    "timeStamp": 924031760.0,
+    "distance": 2094.7,
+    "speed": 3.816,
+    "heartRate": 156.0
+  },
+  {
+    "latitude": 44.926845850422978,
+    "longitude": -123.0412766430527,
+    "timeStamp": 924031766.0,
+    "distance": 2115.08,
+    "speed": 3.751,
+    "heartRate": 154.0
+  },
+  {
+    "latitude": 44.927034107968211,
+    "longitude": -123.04126943461597,
+    "timeStamp": 924031772.0,
+    "distance": 2136.02,
+    "speed": 3.723,
+    "heartRate": 156.0
+  },
+  {
+    "latitude": 44.927231753244996,
+    "longitude": -123.04125535301864,
+    "timeStamp": 924031778.0,
+    "distance": 2158.02,
+    "speed": 3.723,
+    "heartRate": 156.0
+  },
+  {
+    "latitude": 44.927415149286389,
+    "longitude": -123.04126599803567,
+    "timeStamp": 924031784.0,
+    "distance": 2178.46,
+    "speed": 3.658,
+    "heartRate": 156.0
+  },
+  {
+    "latitude": 44.927627546712756,
+    "longitude": -123.04126281291246,
+    "timeStamp": 924031790.0,
+    "distance": 2202.08,
+    "speed": 3.667,
+    "heartRate": 156.0
+  },
+  {
+    "latitude": 44.927839860320091,
+    "longitude": -123.04125275462866,
+    "timeStamp": 924031796.0,
+    "distance": 2225.69,
+    "speed": 3.686,
+    "heartRate": 158.0
+  },
+  {
+    "latitude": 44.928022669628263,
+    "longitude": -123.04123825393617,
+    "timeStamp": 924031801.0,
+    "distance": 2246.04,
+    "speed": 3.76,
+    "heartRate": 156.0
+  },
+  {
+    "latitude": 44.928221488371491,
+    "longitude": -123.04123347625136,
+    "timeStamp": 924031807.0,
+    "distance": 2268.16,
+    "speed": 3.779,
+    "heartRate": 155.0
+  },
+  {
+    "latitude": 44.928404549136758,
+    "longitude": -123.041229872033,
+    "timeStamp": 924031813.0,
+    "distance": 2288.51,
+    "speed": 3.732,
+    "heartRate": 155.0
+  },
+  {
+    "latitude": 44.92858643643558,
+    "longitude": -123.04120573215187,
+    "timeStamp": 924031818.0,
+    "distance": 2308.8,
+    "speed": 3.742,
+    "heartRate": 157.0
+  },
+  {
+    "latitude": 44.928790284320712,
+    "longitude": -123.0411696061492,
+    "timeStamp": 924031824.0,
+    "distance": 2331.63,
+    "speed": 3.77,
+    "heartRate": 158.0
+  },
+  {
+    "latitude": 44.928981307893991,
+    "longitude": -123.04113348014653,
+    "timeStamp": 924031830.0,
+    "distance": 2353.09,
+    "speed": 3.76,
+    "heartRate": 157.0
+  },
+  {
+    "latitude": 44.929162608459592,
+    "longitude": -123.04114035330713,
+    "timeStamp": 924031835.0,
+    "distance": 2373.25,
+    "speed": 3.779,
+    "heartRate": 156.0
+  },
+  {
+    "latitude": 44.929383136332035,
+    "longitude": -123.04114663973451,
+    "timeStamp": 924031841.0,
+    "distance": 2397.76,
+    "speed": 3.798,
+    "heartRate": 157.0
+  },
+  {
+    "latitude": 44.929571896791458,
+    "longitude": -123.04113716818392,
+    "timeStamp": 924031846.0,
+    "distance": 2418.75,
+    "speed": 3.844,
+    "heartRate": 157.0
+  },
+  {
+    "latitude": 44.929757472127676,
+    "longitude": -123.04113624617457,
+    "timeStamp": 924031851.0,
+    "distance": 2439.39,
+    "speed": 3.882,
+    "heartRate": 156.0
+  },
+  {
+    "latitude": 44.929968193173409,
+    "longitude": -123.04113867692649,
+    "timeStamp": 924031857.0,
+    "distance": 2462.8,
+    "speed": 3.891,
+    "heartRate": 158.0
+  },
+  {
+    "latitude": 44.9301534332335,
+    "longitude": -123.04113364778459,
+    "timeStamp": 924031862.0,
+    "distance": 2483.38,
+    "speed": 3.956,
+    "heartRate": 159.0
+  },
+  {
+    "latitude": 44.930362142622471,
+    "longitude": -123.04112744517624,
+    "timeStamp": 924031868.0,
+    "distance": 2506.58,
+    "speed": 3.975,
+    "heartRate": 159.0
+  },
+  {
+    "latitude": 44.93056682869792,
+    "longitude": -123.04111503995955,
+    "timeStamp": 924031874.0,
+    "distance": 2529.32,
+    "speed": 3.984,
+    "heartRate": 159.0
+  },
+  {
+    "latitude": 44.930768245831132,
+    "longitude": -123.04111185483634,
+    "timeStamp": 924031880.0,
+    "distance": 2551.72,
+    "speed": 3.956,
+    "heartRate": 161.0
+  },
+  {
+    "latitude": 44.930973937734962,
+    "longitude": -123.04110581986606,
+    "timeStamp": 924031886.0,
+    "distance": 2574.6,
+    "speed": 3.928,
+    "heartRate": 161.0
+  },
+  {
+    "latitude": 44.931161524727941,
+    "longitude": -123.04104689508677,
+    "timeStamp": 924031892.0,
+    "distance": 2596.52,
+    "speed": 3.91,
+    "heartRate": 161.0
+  },
+  {
+    "latitude": 44.931168565526605,
+    "longitude": -123.04099635221064,
+    "timeStamp": 924031893.0,
+    "distance": 2600.58,
+    "speed": 3.891,
+    "heartRate": 160.0
+  },
+  {
+    "latitude": 44.931146604940295,
+    "longitude": -123.0407293047756,
+    "timeStamp": 924031898.0,
+    "distance": 2621.84,
+    "speed": 3.919,
+    "heartRate": 160.0
+  },
+  {
+    "latitude": 44.931120537221432,
+    "longitude": -123.04046946577728,
+    "timeStamp": 924031903.0,
+    "distance": 2642.55,
+    "speed": 3.872,
+    "heartRate": 160.0
+  },
+  {
+    "latitude": 44.931087512522936,
+    "longitude": -123.0401764344424,
+    "timeStamp": 924031909.0,
+    "distance": 2665.95,
+    "speed": 3.919,
+    "heartRate": 162.0
+  },
+  {
+    "latitude": 44.931036718189716,
+    "longitude": -123.03989756852388,
+    "timeStamp": 924031915.0,
+    "distance": 2688.69,
+    "speed": 3.91,
+    "heartRate": 160.0
+  },
+  {
+    "latitude": 44.930966477841139,
+    "longitude": -123.03962658159435,
+    "timeStamp": 924031921.0,
+    "distance": 2711.47,
+    "speed": 3.91,
+    "heartRate": 161.0
+  },
+  {
+    "latitude": 44.930894309654832,
+    "longitude": -123.03936841897666,
+    "timeStamp": 924031927.0,
+    "distance": 2733.43,
+    "speed": 3.91,
+    "heartRate": 161.0
+  },
+  {
+    "latitude": 44.930808814242482,
+    "longitude": -123.03921092301607,
+    "timeStamp": 924031932.0,
+    "distance": 2749.41,
+    "speed": 3.798,
+    "heartRate": 159.0
+  },
+  {
+    "latitude": 44.93063036352396,
+    "longitude": -123.03922173567116,
+    "timeStamp": 924031937.0,
+    "distance": 2769.54,
+    "speed": 3.807,
+    "heartRate": 159.0
+  },
+  {
+    "latitude": 44.930439339950681,
+    "longitude": -123.03935685195029,
+    "timeStamp": 924031943.0,
+    "distance": 2793.35,
+    "speed": 3.807,
+    "heartRate": 160.0
+  },
+  {
+    "latitude": 44.930238425731659,
+    "longitude": -123.03946095518768,
+    "timeStamp": 924031949.0,
+    "distance": 2817.04,
+    "speed": 3.816,
+    "heartRate": 159.0
+  },
+  {
+    "latitude": 44.930062405765057,
+    "longitude": -123.03954276256263,
+    "timeStamp": 924031955.0,
+    "distance": 2837.64,
+    "speed": 3.639,
+    "heartRate": 159.0
+  },
+  {
+    "latitude": 44.929876159876585,
+    "longitude": -123.03959833458066,
+    "timeStamp": 924031961.0,
+    "distance": 2858.8,
+    "speed": 3.658,
+    "heartRate": 159.0
+  },
+  {
+    "latitude": 44.929702319204807,
+    "longitude": -123.03965558297932,
+    "timeStamp": 924031967.0,
+    "distance": 2878.65,
+    "speed": 3.574,
+    "heartRate": 162.0
+  },
+  {
+    "latitude": 44.929501740261912,
+    "longitude": -123.03973445668817,
+    "timeStamp": 924031974.0,
+    "distance": 2901.79,
+    "speed": 3.546,
+    "heartRate": 160.0
+  },
+  {
+    "latitude": 44.929308537393808,
+    "longitude": -123.0398135818541,
+    "timeStamp": 924031980.0,
+    "distance": 2924.18,
+    "speed": 3.583,
+    "heartRate": 160.0
+  },
+  {
+    "latitude": 44.929109467193484,
+    "longitude": -123.03989471867681,
+    "timeStamp": 924031987.0,
+    "distance": 2947.19,
+    "speed": 3.499,
+    "heartRate": 159.0
+  },
+  {
+    "latitude": 44.928936464712024,
+    "longitude": -123.03996956907213,
+    "timeStamp": 924031992.0,
+    "distance": 2967.3,
+    "speed": 3.555,
+    "heartRate": 160.0
+  },
+  {
+    "latitude": 44.928743010386825,
+    "longitude": -123.04005481302738,
+    "timeStamp": 924031999.0,
+    "distance": 2989.81,
+    "speed": 3.462,
+    "heartRate": 158.0
+  },
+  {
+    "latitude": 44.928563218563795,
+    "longitude": -123.04014785215259,
+    "timeStamp": 924032005.0,
+    "distance": 3011.1,
+    "speed": 3.518,
+    "heartRate": 157.0
+  },
+  {
+    "latitude": 44.928381917998195,
+    "longitude": -123.04016201756895,
+    "timeStamp": 924032012.0,
+    "distance": 3031.32,
+    "speed": 3.312,
+    "heartRate": 155.0
+  },
+  {
+    "latitude": 44.928199108690023,
+    "longitude": -123.04016042500734,
+    "timeStamp": 924032018.0,
+    "distance": 3051.63,
+    "speed": 3.303,
+    "heartRate": 155.0
+  },
+  {
+    "latitude": 44.9280069116503,
+    "longitude": -123.04015355184674,
+    "timeStamp": 924032024.0,
+    "distance": 3072.96,
+    "speed": 3.35,
+    "heartRate": 157.0
+  },
+  {
+    "latitude": 44.927808847278357,
+    "longitude": -123.04016645997763,
+    "timeStamp": 924032030.0,
+    "distance": 3095.14,
+    "speed": 3.359,
+    "heartRate": 156.0
+  },
+  {
+    "latitude": 44.927777331322432,
+    "longitude": -123.03993419744074,
+    "timeStamp": 924032036.0,
+    "distance": 3115.27,
+    "speed": 3.331,
+    "heartRate": 157.0
+  },
+  {
+    "latitude": 44.927942119538784,
+    "longitude": -123.03977846167982,
+    "timeStamp": 924032044.0,
+    "distance": 3137.61,
+    "speed": 3.247,
+    "heartRate": 158.0
+  },
+  {
+    "latitude": 44.928140686824918,
+    "longitude": -123.03968911059201,
+    "timeStamp": 924032051.0,
+    "distance": 3160.79,
+    "speed": 3.228,
+    "heartRate": 158.0
+  },
+  {
+    "latitude": 44.9283193051815,
+    "longitude": -123.03961141034961,
+    "timeStamp": 924032057.0,
+    "distance": 3181.58,
+    "speed": 3.256,
+    "heartRate": 158.0
+  },
+  {
+    "latitude": 44.928511334583163,
+    "longitude": -123.03951971232891,
+    "timeStamp": 924032063.0,
+    "distance": 3204.11,
+    "speed": 3.35,
+    "heartRate": 159.0
+  },
+  {
+    "latitude": 44.928652485832572,
+    "longitude": -123.03943849168718,
+    "timeStamp": 924032068.0,
+    "distance": 3221.07,
+    "speed": 3.331,
+    "heartRate": 158.0
+  },
+  {
+    "latitude": 44.9288428388536,
+    "longitude": -123.03933313116431,
+    "timeStamp": 924032074.0,
+    "distance": 3243.83,
+    "speed": 3.368,
+    "heartRate": 158.0
+  },
+  {
+    "latitude": 44.929023636505008,
+    "longitude": -123.03923682309687,
+    "timeStamp": 924032081.0,
+    "distance": 3265.31,
+    "speed": 3.2,
+    "heartRate": 157.0
+  },
+  {
+    "latitude": 44.929063869640231,
+    "longitude": -123.039176389575,
+    "timeStamp": 924032083.0,
+    "distance": 3271.98,
+    "speed": 3.219,
+    "heartRate": 157.0
+  },
+  {
+    "latitude": 44.928988851606846,
+    "longitude": -123.03893893025815,
+    "timeStamp": 924032089.0,
+    "distance": 3293.68,
+    "speed": 3.238,
+    "heartRate": 156.0
+  },
+  {
+    "latitude": 44.928864883258939,
+    "longitude": -123.03873198106885,
+    "timeStamp": 924032095.0,
+    "distance": 3315.06,
+    "speed": 3.294,
+    "heartRate": 157.0
+  },
+  {
+    "latitude": 44.928770670667291,
+    "longitude": -123.03855671547353,
+    "timeStamp": 924032100.0,
+    "distance": 3332.51,
+    "speed": 3.322,
+    "heartRate": 160.0
+  },
+  {
+    "latitude": 44.928641421720386,
+    "longitude": -123.03833308629692,
+    "timeStamp": 924032106.0,
+    "distance": 3355.35,
+    "speed": 3.387,
+    "heartRate": 159.0
+  },
+  {
+    "latitude": 44.928528433665633,
+    "longitude": -123.03822621703148,
+    "timeStamp": 924032110.0,
+    "distance": 3370.48,
+    "speed": 3.48,
+    "heartRate": 156.0
+  },
+  {
+    "latitude": 44.92842860519886,
+    "longitude": -123.03805522620678,
+    "timeStamp": 924032116.0,
+    "distance": 3388.07,
+    "speed": 3.331,
+    "heartRate": 154.0
+  },
+  {
+    "latitude": 44.928411589935422,
+    "longitude": -123.037965958938,
+    "timeStamp": 924032118.0,
+    "distance": 3395.35,
+    "speed": 3.331,
+    "heartRate": 159.0
+  },
+  {
+    "latitude": 44.928387114778161,
+    "longitude": -123.03769840858877,
+    "timeStamp": 924032123.0,
+    "distance": 3416.56,
+    "speed": 3.443,
+    "heartRate": 156.0
+  },
+  {
+    "latitude": 44.9283158686012,
+    "longitude": -123.03745499812067,
+    "timeStamp": 924032128.0,
+    "distance": 3437.11,
+    "speed": 3.536,
+    "heartRate": 157.0
+  },
+  {
+    "latitude": 44.928229786455631,
+    "longitude": -123.03719935007393,
+    "timeStamp": 924032133.0,
+    "distance": 3458.88,
+    "speed": 3.602,
+    "heartRate": 159.0
+  },
+  {
+    "latitude": 44.928188631311059,
+    "longitude": -123.03694747388363,
+    "timeStamp": 924032138.0,
+    "distance": 3479.07,
+    "speed": 3.676,
+    "heartRate": 158.0
+  },
+  {
+    "latitude": 44.928155355155468,
+    "longitude": -123.03667925298214,
+    "timeStamp": 924032144.0,
+    "distance": 3500.6,
+    "speed": 3.639,
+    "heartRate": 158.0
+  },
+  {
+    "latitude": 44.928187290206552,
+    "longitude": -123.03643584251404,
+    "timeStamp": 924032151.0,
+    "distance": 3522.55,
+    "speed": 3.499,
+    "heartRate": 159.0
+  },
+  {
+    "latitude": 44.928368590772152,
+    "longitude": -123.03635579533875,
+    "timeStamp": 924032157.0,
+    "distance": 3543.67,
+    "speed": 3.508,
+    "heartRate": 159.0
+  },
+  {
+    "latitude": 44.928537486121058,
+    "longitude": -123.03632939234376,
+    "timeStamp": 924032162.0,
+    "distance": 3562.57,
+    "speed": 3.564,
+    "heartRate": 163.0
+  },
+  {
+    "latitude": 44.928672602400184,
+    "longitude": -123.03632872179151,
+    "timeStamp": 924032166.0,
+    "distance": 3577.53,
+    "speed": 3.602,
+    "heartRate": 167.0
+  },
+  {
+    "latitude": 44.928869912400842,
+    "longitude": -123.03633844479918,
+    "timeStamp": 924032172.0,
+    "distance": 3599.48,
+    "speed": 3.62,
+    "heartRate": 169.0
+  },
+  {
+    "latitude": 44.929057415574789,
+    "longitude": -123.03634188137949,
+    "timeStamp": 924032178.0,
+    "distance": 3620.32,
+    "speed": 3.62,
+    "heartRate": 168.0
+  },
+  {
+    "latitude": 44.929252462461591,
+    "longitude": -123.03629167377949,
+    "timeStamp": 924032184.0,
+    "distance": 3642.44,
+    "speed": 3.658,
+    "heartRate": 167.0
+  },
+  {
+    "latitude": 44.929356900975108,
+    "longitude": -123.03625269792974,
+    "timeStamp": 924032187.0,
+    "distance": 3654.45,
+    "speed": 3.714,
+    "heartRate": 164.0
+  },
+  {
+    "latitude": 44.929453460499644,
+    "longitude": -123.03621020168066,
+    "timeStamp": 924032190.0,
+    "distance": 3665.69,
+    "speed": 3.742,
+    "heartRate": 170.0
+  },
+  {
+    "latitude": 44.929485563188791,
+    "longitude": -123.03620089776814,
+    "timeStamp": 924032191.0,
+    "distance": 3669.33,
+    "speed": 3.742,
+    "heartRate": 170.0
+  },
+  {
+    "latitude": 44.9296613316983,
+    "longitude": -123.03611967712641,
+    "timeStamp": 924032197.0,
+    "distance": 3689.91,
+    "speed": 3.723,
+    "heartRate": 168.0
+  },
+  {
+    "latitude": 44.92983634583652,
+    "longitude": -123.03601934574544,
+    "timeStamp": 924032204.0,
+    "distance": 3710.94,
+    "speed": 3.527,
+    "heartRate": 167.0
+  },
+  {
+    "latitude": 44.930032314732671,
+    "longitude": -123.0360958725214,
+    "timeStamp": 924032211.0,
+    "distance": 3733.63,
+    "speed": 3.471,
+    "heartRate": 166.0
+  },
+  {
+    "latitude": 44.930241527035832,
+    "longitude": -123.03615865297616,
+    "timeStamp": 924032217.0,
+    "distance": 3757.4,
+    "speed": 3.555,
+    "heartRate": 168.0
+  },
+  {
+    "latitude": 44.9304227437824,
+    "longitude": -123.03619729354978,
+    "timeStamp": 924032222.0,
+    "distance": 3777.76,
+    "speed": 3.602,
+    "heartRate": 166.0
+  },
+  {
+    "latitude": 44.9306077323854,
+    "longitude": -123.03625764325261,
+    "timeStamp": 924032228.0,
+    "distance": 3798.89,
+    "speed": 3.611,
+    "heartRate": 163.0
+  },
+  {
+    "latitude": 44.930705465376377,
+    "longitude": -123.03627650253475,
+    "timeStamp": 924032232.0,
+    "distance": 3810.23,
+    "speed": 3.536,
+    "heartRate": 162.0
+  },
+  {
+    "latitude": 44.930663891136646,
+    "longitude": -123.03600668907166,
+    "timeStamp": 924032239.0,
+    "distance": 3832.75,
+    "speed": 3.424,
+    "heartRate": 163.0
+  },
+  {
+    "latitude": 44.930589208379388,
+    "longitude": -123.03576042875648,
+    "timeStamp": 924032245.0,
+    "distance": 3853.92,
+    "speed": 3.434,
+    "heartRate": 166.0
+  },
+  {
+    "latitude": 44.930456103757024,
+    "longitude": -123.03558574989438,
+    "timeStamp": 924032251.0,
+    "distance": 3874.3,
+    "speed": 3.443,
+    "heartRate": 167.0
+  },
+  {
+    "latitude": 44.93028393946588,
+    "longitude": -123.03543143905699,
+    "timeStamp": 924032258.0,
+    "distance": 3897.05,
+    "speed": 3.378,
+    "heartRate": 169.0
+  },
+  {
+    "latitude": 44.930163826793432,
+    "longitude": -123.03526329807937,
+    "timeStamp": 924032264.0,
+    "distance": 3916.12,
+    "speed": 3.322,
+    "heartRate": 166.0
+  },
+  {
+    "latitude": 44.930046815425158,
+    "longitude": -123.03506456315517,
+    "timeStamp": 924032270.0,
+    "distance": 3936.88,
+    "speed": 3.303,
+    "heartRate": 165.0
+  },
+  {
+    "latitude": 44.929972970858216,
+    "longitude": -123.03483054041862,
+    "timeStamp": 924032276.0,
+    "distance": 3957.06,
+    "speed": 3.322,
+    "heartRate": 167.0
+  },
+  {
+    "latitude": 44.929850092157722,
+    "longitude": -123.03463825955987,
+    "timeStamp": 924032283.0,
+    "distance": 3977.57,
+    "speed": 3.247,
+    "heartRate": 166.0
+  },
+  {
+    "latitude": 44.929683962836862,
+    "longitude": -123.03445997647941,
+    "timeStamp": 924032290.0,
+    "distance": 4000.78,
+    "speed": 3.2,
+    "heartRate": 166.0
+  },
+  {
+    "latitude": 44.929528813809156,
+    "longitude": -123.03432259708643,
+    "timeStamp": 924032296.0,
+    "distance": 4021.16,
+    "speed": 3.21,
+    "heartRate": 167.0
+  },
+  {
+    "latitude": 44.929396379739046,
+    "longitude": -123.03413366898894,
+    "timeStamp": 924032302.0,
+    "distance": 4042.28,
+    "speed": 3.238,
+    "heartRate": 165.0
+  },
+  {
+    "latitude": 44.929319014772773,
+    "longitude": -123.03388573229313,
+    "timeStamp": 924032308.0,
+    "distance": 4063.59,
+    "speed": 3.256,
+    "heartRate": 164.0
+  },
+  {
+    "latitude": 44.929248942062259,
+    "longitude": -123.03362941369414,
+    "timeStamp": 924032314.0,
+    "distance": 4084.91,
+    "speed": 3.275,
+    "heartRate": 166.0
+  },
+  {
+    "latitude": 44.929190604016185,
+    "longitude": -123.03336295299232,
+    "timeStamp": 924032320.0,
+    "distance": 4107.06,
+    "speed": 3.303,
+    "heartRate": 166.0
+  },
+  {
+    "latitude": 44.929019697010517,
+    "longitude": -123.03323848173022,
+    "timeStamp": 924032326.0,
+    "distance": 4128.83,
+    "speed": 3.34,
+    "heartRate": 166.0
+  },
+  {
+    "latitude": 44.9288100656122,
+    "longitude": -123.03324996493757,
+    "timeStamp": 924032332.0,
+    "distance": 4152.12,
+    "speed": 3.378,
+    "heartRate": 165.0
+  },
+  {
+    "latitude": 44.928598003461957,
+    "longitude": -123.03323940373957,
+    "timeStamp": 924032339.0,
+    "distance": 4175.68,
+    "speed": 3.378,
+    "heartRate": 166.0
+  },
+  {
+    "latitude": 44.928389629349113,
+    "longitude": -123.03326278924942,
+    "timeStamp": 924032345.0,
+    "distance": 4198.89,
+    "speed": 3.396,
+    "heartRate": 168.0
+  },
+  {
+    "latitude": 44.928309665992856,
+    "longitude": -123.03327695466578,
+    "timeStamp": 924032348.0,
+    "distance": 4207.85,
+    "speed": 3.406,
+    "heartRate": 171.0
+  },
+  {
+    "latitude": 44.928221656009555,
+    "longitude": -123.03329019807279,
+    "timeStamp": 924032351.0,
+    "distance": 4217.58,
+    "speed": 3.387,
+    "heartRate": 168.0
+  },
+  {
+    "latitude": 44.928048737347126,
+    "longitude": -123.03337745368481,
+    "timeStamp": 924032357.0,
+    "distance": 4237.71,
+    "speed": 3.387,
+    "heartRate": 168.0
+  },
+  {
+    "latitude": 44.92786961607635,
+    "longitude": -123.03350469097495,
+    "timeStamp": 924032365.0,
+    "distance": 4259.99,
+    "speed": 3.35,
+    "heartRate": 169.0
+  },
+  {
+    "latitude": 44.927761992439628,
+    "longitude": -123.03351793438196,
+    "timeStamp": 924032369.0,
+    "distance": 4272.01,
+    "speed": 3.322,
+    "heartRate": 166.0
+  },
+  {
+    "latitude": 44.927568035200238,
+    "longitude": -123.0335883423686,
+    "timeStamp": 924032376.0,
+    "distance": 4294.31,
+    "speed": 3.238,
+    "heartRate": 165.0
+  },
+  {
+    "latitude": 44.927406683564186,
+    "longitude": -123.03367752581835,
+    "timeStamp": 924032381.0,
+    "distance": 4313.55,
+    "speed": 3.275,
+    "heartRate": 168.0
+  },
+  {
+    "latitude": 44.927215576171875,
+    "longitude": -123.03377819247544,
+    "timeStamp": 924032386.0,
+    "distance": 4336.22,
+    "speed": 3.424,
+    "heartRate": 168.0
+  },
+  {
+    "latitude": 44.927017092704773,
+    "longitude": -123.03384541533887,
+    "timeStamp": 924032391.0,
+    "distance": 4358.92,
+    "speed": 3.639,
+    "heartRate": 169.0
+  },
+  {
+    "latitude": 44.926831014454365,
+    "longitude": -123.03390978835523,
+    "timeStamp": 924032396.0,
+    "distance": 4380.21,
+    "speed": 3.742,
+    "heartRate": 168.0
+  },
+  {
+    "latitude": 44.926695981994271,
+    "longitude": -123.03396443836391,
+    "timeStamp": 924032400.0,
+    "distance": 4395.82,
+    "speed": 3.77,
+    "heartRate": 165.0
+  },
+  {
+    "latitude": 44.926505042240024,
+    "longitude": -123.03403870202601,
+    "timeStamp": 924032406.0,
+    "distance": 4417.97,
+    "speed": 3.751,
+    "heartRate": 167.0
+  },
+  {
+    "latitude": 44.926476376131177,
+    "longitude": -123.03411489352584,
+    "timeStamp": 924032408.0,
+    "distance": 4424.91,
+    "speed": 3.723,
+    "heartRate": 167.0
+  },
+  {
+    "latitude": 44.926471263170242,
+    "longitude": -123.03441194817424,
+    "timeStamp": 924032414.0,
+    "distance": 4448.34,
+    "speed": 3.714,
+    "heartRate": 167.0
+  },
+  {
+    "latitude": 44.926465479657054,
+    "longitude": -123.03471109829843,
+    "timeStamp": 924032420.0,
+    "distance": 4471.97,
+    "speed": 3.77,
+    "heartRate": 167.0
+  },
+  {
+    "latitude": 44.926419043913484,
+    "longitude": -123.03497898392379,
+    "timeStamp": 924032426.0,
+    "distance": 4493.8,
+    "speed": 3.779,
+    "heartRate": 164.0
+  },
+  {
+    "latitude": 44.926397670060396,
+    "longitude": -123.03516087122262,
+    "timeStamp": 924032430.0,
+    "distance": 4508.35,
+    "speed": 3.779,
+    "heartRate": 167.0
+  },
+  {
+    "latitude": 44.92638953961432,
+    "longitude": -123.03542967885733,
+    "timeStamp": 924032436.0,
+    "distance": 4529.6,
+    "speed": 3.742,
+    "heartRate": 167.0
+  },
+  {
+    "latitude": 44.926387444138527,
+    "longitude": -123.03570074960589,
+    "timeStamp": 924032442.0,
+    "distance": 4551.0,
+    "speed": 3.723,
+    "heartRate": 165.0
+  },
+  {
+    "latitude": 44.926379313692451,
+    "longitude": -123.0359748378396,
+    "timeStamp": 924032448.0,
+    "distance": 4572.64,
+    "speed": 3.723,
+    "heartRate": 166.0
+  },
+  {
+    "latitude": 44.926368417218328,
+    "longitude": -123.0362391192466,
+    "timeStamp": 924032454.0,
+    "distance": 4593.55,
+    "speed": 3.714,
+    "heartRate": 166.0
+  },
+  {
+    "latitude": 44.92637881077826,
+    "longitude": -123.03650029934943,
+    "timeStamp": 924032460.0,
+    "distance": 4614.23,
+    "speed": 3.686,
+    "heartRate": 166.0
+  },
+  {
+    "latitude": 44.926374787464738,
+    "longitude": -123.0367798358202,
+    "timeStamp": 924032466.0,
+    "distance": 4636.31,
+    "speed": 3.686,
+    "heartRate": 166.0
+  },
+  {
+    "latitude": 44.926342349499464,
+    "longitude": -123.03703690879047,
+    "timeStamp": 924032472.0,
+    "distance": 4657.03,
+    "speed": 3.676,
+    "heartRate": 165.0
+  },
+  {
+    "latitude": 44.926317958161235,
+    "longitude": -123.03724142722785,
+    "timeStamp": 924032477.0,
+    "distance": 4673.41,
+    "speed": 3.667,
+    "heartRate": 168.0
+  },
+  {
+    "latitude": 44.926330363377929,
+    "longitude": -123.03741903975606,
+    "timeStamp": 924032482.0,
+    "distance": 4687.53,
+    "speed": 3.546,
+    "heartRate": 171.0
+  },
+  {
+    "latitude": 44.92632751353085,
+    "longitude": -123.03749363869429,
+    "timeStamp": 924032484.0,
+    "distance": 4693.43,
+    "speed": 3.508,
+    "heartRate": 175.0
+  },
+  {
+    "latitude": 44.926315946504474,
+    "longitude": -123.03771114908159,
+    "timeStamp": 924032490.0,
+    "distance": 4710.66,
+    "speed": 3.452,
+    "heartRate": 170.0
+  },
+  {
+    "latitude": 44.926362885162234,
+    "longitude": -123.03798347711563,
+    "timeStamp": 924032499.0,
+    "distance": 4733.02,
+    "speed": 3.098,
+    "heartRate": 166.0
+  },
+  {
+    "latitude": 44.926401022821665,
+    "longitude": -123.03825781680644,
+    "timeStamp": 924032506.0,
+    "distance": 4755.24,
+    "speed": 3.107,
+    "heartRate": 166.0
+  },
+  {
+    "latitude": 44.926425414159894,
+    "longitude": -123.03854330442846,
+    "timeStamp": 924032513.0,
+    "distance": 4777.91,
+    "speed": 3.2,
+    "heartRate": 165.0
+  },
+  {
+    "latitude": 44.926419714465737,
+    "longitude": -123.03880565799773,
+    "timeStamp": 924032519.0,
+    "distance": 4798.61,
+    "speed": 3.2,
+    "heartRate": 166.0
+  },
+  {
+    "latitude": 44.926458522677422,
+    "longitude": -123.03895443677902,
+    "timeStamp": 924032523.0,
+    "distance": 4811.65,
+    "speed": 3.219,
+    "heartRate": 165.0
+  },
+  {
+    "latitude": 44.926596404984593,
+    "longitude": -123.03905183449388,
+    "timeStamp": 924032528.0,
+    "distance": 4828.68,
+    "speed": 3.238,
+    "heartRate": 166.0
+  },
+  {
+    "latitude": 44.926772676408291,
+    "longitude": -123.03918217308819,
+    "timeStamp": 924032535.0,
+    "distance": 4850.56,
+    "speed": 3.247,
+    "heartRate": 167.0
+  },
+  {
+    "latitude": 44.926940817385912,
+    "longitude": -123.03930412977934,
+    "timeStamp": 924032541.0,
+    "distance": 4871.39,
+    "speed": 3.247,
+    "heartRate": 167.0
+  },
+  {
+    "latitude": 44.9271191842854,
+    "longitude": -123.03942633792758,
+    "timeStamp": 924032548.0,
+    "distance": 4893.2,
+    "speed": 3.256,
+    "heartRate": 168.0
+  },
+  {
+    "latitude": 44.927311465144157,
+    "longitude": -123.03955005481839,
+    "timeStamp": 924032555.0,
+    "distance": 4916.66,
+    "speed": 3.228,
+    "heartRate": 169.0
+  },
+  {
+    "latitude": 44.927413472905755,
+    "longitude": -123.03965868428349,
+    "timeStamp": 924032559.0,
+    "distance": 4930.93,
+    "speed": 3.238,
+    "heartRate": 166.0
+  },
+  {
+    "latitude": 44.927573148161173,
+    "longitude": -123.03981450386345,
+    "timeStamp": 924032566.0,
+    "distance": 4953.62,
+    "speed": 3.247,
+    "heartRate": 165.0
+  },
+  {
+    "latitude": 44.927763668820262,
+    "longitude": -123.03980226628482,
+    "timeStamp": 924032573.0,
+    "distance": 4974.7,
+    "speed": 3.21,
+    "heartRate": 165.0
+  },
+  {
+    "latitude": 44.927951842546463,
+    "longitude": -123.03973764181137,
+    "timeStamp": 924032579.0,
+    "distance": 4996.2,
+    "speed": 3.219,
+    "heartRate": 164.0
+  },
+  {
+    "latitude": 44.928018227219582,
+    "longitude": -123.03971283137798,
+    "timeStamp": 924032581.0,
+    "distance": 5003.83,
+    "speed": 3.238,
+    "heartRate": 169.0
+  },
+  {
+    "latitude": 44.928047899156809,
+    "longitude": -123.03969916887581,
+    "timeStamp": 924032582.0,
+    "distance": 5007.29,
+    "speed": 3.238,
+    "heartRate": 174.0
+  },
+  {
+    "latitude": 44.92824244312942,
+    "longitude": -123.03961208090186,
+    "timeStamp": 924032589.0,
+    "distance": 5029.97,
+    "speed": 3.238,
+    "heartRate": 172.0
+  },
+  {
+    "latitude": 44.928434640169144,
+    "longitude": -123.03952122107148,
+    "timeStamp": 924032595.0,
+    "distance": 5052.5,
+    "speed": 3.275,
+    "heartRate": 172.0
+  },
+  {
+    "latitude": 44.928608648478985,
+    "longitude": -123.03944888524711,
+    "timeStamp": 924032600.0,
+    "distance": 5072.68,
+    "speed": 3.359,
+    "heartRate": 171.0
+  },
+  {
+    "latitude": 44.928800174966455,
+    "longitude": -123.03933857940137,
+    "timeStamp": 924032606.0,
+    "distance": 5095.7,
+    "speed": 3.415,
+    "heartRate": 170.0
+  },
+  {
+    "latitude": 44.928989941254258,
+    "longitude": -123.03925140760839,
+    "timeStamp": 924032612.0,
+    "distance": 5117.87,
+    "speed": 3.415,
+    "heartRate": 170.0
+  },
+  {
+    "latitude": 44.929084992036223,
+    "longitude": -123.03915560245514,
+    "timeStamp": 924032616.0,
+    "distance": 5131.2,
+    "speed": 3.396,
+    "heartRate": 164.0
+  },
+  {
+    "latitude": 44.929083902388811,
+    "longitude": -123.03911830298603,
+    "timeStamp": 924032617.0,
+    "distance": 5134.14,
+    "speed": 3.359,
+    "heartRate": 164.0
+  },
+  {
+    "latitude": 44.929075604304671,
+    "longitude": -123.03908133879304,
+    "timeStamp": 924032618.0,
+    "distance": 5137.21,
+    "speed": 3.34,
+    "heartRate": 158.0
+  },
+  {
+    "latitude": 44.929040903225541,
+    "longitude": -123.03900891914964,
+    "timeStamp": 924032620.0,
+    "distance": 5144.1,
+    "speed": 3.331,
+    "heartRate": 153.0
+  },
+  {
+    "latitude": 44.929000586271286,
+    "longitude": -123.0389313865453,
+    "timeStamp": 924032622.0,
+    "distance": 5151.68,
+    "speed": 3.34,
+    "heartRate": 150.0
+  },
+  {
+    "latitude": 44.928888520225883,
+    "longitude": -123.03874405100942,
+    "timeStamp": 924032627.0,
+    "distance": 5171.07,
+    "speed": 3.434,
+    "heartRate": 153.0
+  },
+  {
+    "latitude": 44.928843844681978,
+    "longitude": -123.03869132883847,
+    "timeStamp": 924032629.0,
+    "distance": 5177.55,
+    "speed": 3.424,
+    "heartRate": 160.0
+  },
+  {
+    "latitude": 44.928819537162781,
+    "longitude": -123.0386604834348,
+    "timeStamp": 924032630.0,
+    "distance": 5181.19,
+    "speed": 3.396,
+    "heartRate": 160.0
+  },
+  {
+    "latitude": 44.92879799567163,
+    "longitude": -123.03861916065216,
+    "timeStamp": 924032631.0,
+    "distance": 5185.22,
+    "speed": 3.396,
+    "heartRate": 156.0
+  },
+  {
+    "latitude": 44.928690958768129,
+    "longitude": -123.0383787676692,
+    "timeStamp": 924032637.0,
+    "distance": 5207.47,
+    "speed": 3.48,
+    "heartRate": 155.0
+  },
+  {
+    "latitude": 44.928542599081993,
+    "longitude": -123.03821263834834,
+    "timeStamp": 924032643.0,
+    "distance": 5228.85,
+    "speed": 3.508,
+    "heartRate": 156.0
+  },
+  {
+    "latitude": 44.928420055657625,
+    "longitude": -123.03802320733666,
+    "timeStamp": 924032650.0,
+    "distance": 5248.89,
+    "speed": 3.424,
+    "heartRate": 159.0
+  },
+  {
+    "latitude": 44.928382504731417,
+    "longitude": -123.03775020875037,
+    "timeStamp": 924032655.0,
+    "distance": 5271.01,
+    "speed": 3.462,
+    "heartRate": 159.0
+  },
+  {
+    "latitude": 44.928324334323406,
+    "longitude": -123.03749414160848,
+    "timeStamp": 924032660.0,
+    "distance": 5292.17,
+    "speed": 3.536,
+    "heartRate": 161.0
+  },
+  {
+    "latitude": 44.928262056782842,
+    "longitude": -123.03720789961517,
+    "timeStamp": 924032666.0,
+    "distance": 5315.53,
+    "speed": 3.639,
+    "heartRate": 163.0
+  },
+  {
+    "latitude": 44.928224254399538,
+    "longitude": -123.03692827932537,
+    "timeStamp": 924032672.0,
+    "distance": 5337.87,
+    "speed": 3.704,
+    "heartRate": 161.0
+  },
+  {
+    "latitude": 44.928175806999207,
+    "longitude": -123.03676323965192,
+    "timeStamp": 924032676.0,
+    "distance": 5351.92,
+    "speed": 3.695,
+    "heartRate": 158.0
+  },
+  {
+    "latitude": 44.928142782300711,
+    "longitude": -123.03659627214074,
+    "timeStamp": 924032680.0,
+    "distance": 5365.58,
+    "speed": 3.676,
+    "heartRate": 161.0
+  },
+  {
+    "latitude": 44.928150996565819,
+    "longitude": -123.03652460686862,
+    "timeStamp": 924032682.0,
+    "distance": 5371.35,
+    "speed": 3.658,
+    "heartRate": 163.0
+  },
+  {
+    "latitude": 44.928326597437263,
+    "longitude": -123.03640214726329,
+    "timeStamp": 924032689.0,
+    "distance": 5393.66,
+    "speed": 3.499,
+    "heartRate": 161.0
+  },
+  {
+    "latitude": 44.928487110883,
+    "longitude": -123.03636820055544,
+    "timeStamp": 924032694.0,
+    "distance": 5411.71,
+    "speed": 3.574,
+    "heartRate": 164.0
+  },
+  {
+    "latitude": 44.928555842489004,
+    "longitude": -123.03635596297681,
+    "timeStamp": 924032696.0,
+    "distance": 5419.4,
+    "speed": 3.602,
+    "heartRate": 167.0
+  },
+  {
+    "latitude": 44.928653491660953,
+    "longitude": -123.03635068237782,
+    "timeStamp": 924032699.0,
+    "distance": 5430.26,
+    "speed": 3.63,
+    "heartRate": 170.0
+  },
+  {
+    "latitude": 44.928807467222214,
+    "longitude": -123.03634992800653,
+    "timeStamp": 924032704.0,
+    "distance": 5447.37,
+    "speed": 3.667,
+    "heartRate": 173.0
+  },
+  {
+    "latitude": 44.929016847163439,
+    "longitude": -123.03634339012206,
+    "timeStamp": 924032711.0,
+    "distance": 5470.64,
+    "speed": 3.611,
+    "heartRate": 174.0
+  },
+  {
+    "latitude": 44.929222371429205,
+    "longitude": -123.03630474954844,
+    "timeStamp": 924032717.0,
+    "distance": 5493.72,
+    "speed": 3.611,
+    "heartRate": 173.0
+  },
+  {
+    "latitude": 44.929427979514,
+    "longitude": -123.03623400628567,
+    "timeStamp": 924032723.0,
+    "distance": 5517.23,
+    "speed": 3.714,
+    "heartRate": 171.0
+  },
+  {
+    "latitude": 44.929613638669252,
+    "longitude": -123.0361495167017,
+    "timeStamp": 924032729.0,
+    "distance": 5538.93,
+    "speed": 3.732,
+    "heartRate": 169.0
+  },
+  {
+    "latitude": 44.92978504858911,
+    "longitude": -123.03604817949235,
+    "timeStamp": 924032735.0,
+    "distance": 5559.6,
+    "speed": 3.686,
+    "heartRate": 168.0
+  },
+  {
+    "latitude": 44.929966935887933,
+    "longitude": -123.03603929467499,
+    "timeStamp": 924032741.0,
+    "distance": 5580.2,
+    "speed": 3.63,
+    "heartRate": 167.0
+  },
+  {
+    "latitude": 44.930148487910628,
+    "longitude": -123.03609662689269,
+    "timeStamp": 924032746.0,
+    "distance": 5600.85,
+    "speed": 3.676,
+    "heartRate": 167.0
+  },
+  {
+    "latitude": 44.930330542847514,
+    "longitude": -123.03613618947566,
+    "timeStamp": 924032751.0,
+    "distance": 5621.33,
+    "speed": 3.742,
+    "heartRate": 167.0
+  },
+  {
+    "latitude": 44.93051310069859,
+    "longitude": -123.03613526746631,
+    "timeStamp": 924032757.0,
+    "distance": 5642.0,
+    "speed": 3.742,
+    "heartRate": 167.0
+  },
+  {
+    "latitude": 44.93063380010426,
+    "longitude": -123.03606058470905,
+    "timeStamp": 924032762.0,
+    "distance": 5656.78,
+    "speed": 3.686,
+    "heartRate": 166.0
+  },
+  {
+    "latitude": 44.930633464828134,
+    "longitude": -123.03596084006131,
+    "timeStamp": 924032765.0,
+    "distance": 5664.89,
+    "speed": 3.583,
+    "heartRate": 166.0
+  },
+  {
+    "latitude": 44.930560458451509,
+    "longitude": -123.03572597913444,
+    "timeStamp": 924032771.0,
+    "distance": 5685.15,
+    "speed": 3.574,
+    "heartRate": 166.0
+  },
+  {
+    "latitude": 44.930415535345674,
+    "longitude": -123.03554107435048,
+    "timeStamp": 924032778.0,
+    "distance": 5707.03,
+    "speed": 3.452,
+    "heartRate": 167.0
+  },
+  {
+    "latitude": 44.930285280570388,
+    "longitude": -123.035370670259,
+    "timeStamp": 924032785.0,
+    "distance": 5727.08,
+    "speed": 3.294,
+    "heartRate": 168.0
+  },
+  {
+    "latitude": 44.930140608921647,
+    "longitude": -123.03515433333814,
+    "timeStamp": 924032792.0,
+    "distance": 5750.52,
+    "speed": 3.275,
+    "heartRate": 169.0
+  },
+  {
+    "latitude": 44.930050168186426,
+    "longitude": -123.03490027785301,
+    "timeStamp": 924032798.0,
+    "distance": 5772.93,
+    "speed": 3.378,
+    "heartRate": 169.0
+  },
+  {
+    "latitude": 44.929995434358716,
+    "longitude": -123.0347712803632,
+    "timeStamp": 924032802.0,
+    "distance": 5784.85,
+    "speed": 3.35,
+    "heartRate": 168.0
+  },
+  {
+    "latitude": 44.929841877892613,
+    "longitude": -123.03460305556655,
+    "timeStamp": 924032809.0,
+    "distance": 5806.86,
+    "speed": 3.228,
+    "heartRate": 167.0
+  },
+  {
+    "latitude": 44.929675329476595,
+    "longitude": -123.03450473584235,
+    "timeStamp": 924032814.0,
+    "distance": 5827.12,
+    "speed": 3.284,
+    "heartRate": 168.0
+  },
+  {
+    "latitude": 44.929530154913664,
+    "longitude": -123.03429795429111,
+    "timeStamp": 924032820.0,
+    "distance": 5850.11,
+    "speed": 3.331,
+    "heartRate": 168.0
+  },
+  {
+    "latitude": 44.929389925673604,
+    "longitude": -123.03407977335155,
+    "timeStamp": 924032826.0,
+    "distance": 5873.47,
+    "speed": 3.415,
+    "heartRate": 168.0
+  },
+  {
+    "latitude": 44.929289259016514,
+    "longitude": -123.03382395766675,
+    "timeStamp": 924032832.0,
+    "distance": 5896.64,
+    "speed": 3.406,
+    "heartRate": 166.0
+  },
+  {
+    "latitude": 44.929203679785132,
+    "longitude": -123.03355506621301,
+    "timeStamp": 924032839.0,
+    "distance": 5919.5,
+    "speed": 3.331,
+    "heartRate": 164.0
+  },
+  {
+    "latitude": 44.929143581539392,
+    "longitude": -123.0333518050611,
+    "timeStamp": 924032844.0,
+    "distance": 5937.29,
+    "speed": 3.359,
+    "heartRate": 163.0
+  },
+  {
+    "latitude": 44.928995305672288,
+    "longitude": -123.03329145535827,
+    "timeStamp": 924032849.0,
+    "distance": 5954.68,
+    "speed": 3.359,
+    "heartRate": 166.0
+  },
+  {
+    "latitude": 44.928928250446916,
+    "longitude": -123.03328600712121,
+    "timeStamp": 924032851.0,
+    "distance": 5962.11,
+    "speed": 3.378,
+    "heartRate": 169.0
+  },
+  {
+    "latitude": 44.92872666567564,
+    "longitude": -123.03325122222304,
+    "timeStamp": 924032857.0,
+    "distance": 5984.59,
+    "speed": 3.434,
+    "heartRate": 170.0
+  },
+  {
+    "latitude": 44.928514771163464,
+    "longitude": -123.03327008150518,
+    "timeStamp": 924032864.0,
+    "distance": 6008.17,
+    "speed": 3.396,
+    "heartRate": 168.0
+  },
+  {
+    "latitude": 44.928331961855292,
+    "longitude": -123.03327946923673,
+    "timeStamp": 924032870.0,
+    "distance": 6028.47,
+    "speed": 3.434,
+    "heartRate": 167.0
+  },
+  {
+    "latitude": 44.928140100091696,
+    "longitude": -123.03332523442805,
+    "timeStamp": 924032876.0,
+    "distance": 6050.1,
+    "speed": 3.424,
+    "heartRate": 168.0
+  },
+  {
+    "latitude": 44.927972462028265,
+    "longitude": -123.03344358690083,
+    "timeStamp": 924032882.0,
+    "distance": 6070.83,
+    "speed": 3.443,
+    "heartRate": 166.0
+  },
+  {
+    "latitude": 44.927795771509409,
+    "longitude": -123.03355422802269,
+    "timeStamp": 924032888.0,
+    "distance": 6092.4,
+    "speed": 3.471,
+    "heartRate": 167.0
+  },
+  {
+    "latitude": 44.927613968029618,
+    "longitude": -123.03361088968813,
+    "timeStamp": 924032894.0,
+    "distance": 6113.09,
+    "speed": 3.48,
+    "heartRate": 167.0
+  },
+  {
+    "latitude": 44.927435182034969,
+    "longitude": -123.0336662940681,
+    "timeStamp": 924032900.0,
+    "distance": 6133.45,
+    "speed": 3.48,
+    "heartRate": 167.0
+  },
+  {
+    "latitude": 44.927234351634979,
+    "longitude": -123.03374617360532,
+    "timeStamp": 924032906.0,
+    "distance": 6156.64,
+    "speed": 3.49,
+    "heartRate": 166.0
+  },
+  {
+    "latitude": 44.927060259506106,
+    "longitude": -123.03381146863103,
+    "timeStamp": 924032911.0,
+    "distance": 6176.68,
+    "speed": 3.583,
+    "heartRate": 168.0
+  },
+  {
+    "latitude": 44.9268826469779,
+    "longitude": -123.0338819604367,
+    "timeStamp": 924032916.0,
+    "distance": 6197.18,
+    "speed": 3.676,
+    "heartRate": 169.0
+  },
+  {
+    "latitude": 44.926675362512469,
+    "longitude": -123.03394876420498,
+    "timeStamp": 924032922.0,
+    "distance": 6220.81,
+    "speed": 3.723,
+    "heartRate": 168.0
+  },
+  {
+    "latitude": 44.926485009491444,
+    "longitude": -123.03404582664371,
+    "timeStamp": 924032928.0,
+    "distance": 6243.49,
+    "speed": 3.76,
+    "heartRate": 167.0
+  },
+  {
+    "latitude": 44.926458103582263,
+    "longitude": -123.03434195928276,
+    "timeStamp": 924032934.0,
+    "distance": 6267.36,
+    "speed": 3.779,
+    "heartRate": 165.0
+  },
+  {
+    "latitude": 44.926445446908474,
+    "longitude": -123.03463088348508,
+    "timeStamp": 924032940.0,
+    "distance": 6290.2,
+    "speed": 3.816,
+    "heartRate": 165.0
+  },
+  {
+    "latitude": 44.926417451351881,
+    "longitude": -123.03488820791245,
+    "timeStamp": 924032946.0,
+    "distance": 6310.79,
+    "speed": 3.76,
+    "heartRate": 163.0
+  },
+  {
+    "latitude": 44.926389204338193,
+    "longitude": -123.03516933694482,
+    "timeStamp": 924032952.0,
+    "distance": 6333.28,
+    "speed": 3.76,
+    "heartRate": 165.0
+  },
+  {
+    "latitude": 44.926365064457059,
+    "longitude": -123.03546630777419,
+    "timeStamp": 924032958.0,
+    "distance": 6356.9,
+    "speed": 3.788,
+    "heartRate": 168.0
+  },
+  {
+    "latitude": 44.926351988688111,
+    "longitude": -123.03575288504362,
+    "timeStamp": 924032964.0,
+    "distance": 6379.56,
+    "speed": 3.816,
+    "heartRate": 170.0
+  },
+  {
+    "latitude": 44.926344780251384,
+    "longitude": -123.03604633547366,
+    "timeStamp": 924032970.0,
+    "distance": 6402.74,
+    "speed": 3.854,
+    "heartRate": 170.0
+  },
+  {
+    "latitude": 44.926339499652386,
+    "longitude": -123.03632226772606,
+    "timeStamp": 924032976.0,
+    "distance": 6424.53,
+    "speed": 3.844,
+    "heartRate": 170.0
+  },
+  {
+    "latitude": 44.926348300650716,
+    "longitude": -123.03650205954909,
+    "timeStamp": 924032980.0,
+    "distance": 6438.79,
+    "speed": 3.835,
+    "heartRate": 170.0
+  },
+  {
+    "latitude": 44.926372189074755,
+    "longitude": -123.03677891381085,
+    "timeStamp": 924032986.0,
+    "distance": 6460.81,
+    "speed": 3.798,
+    "heartRate": 169.0
+  },
+  {
+    "latitude": 44.926348133012652,
+    "longitude": -123.03704671561718,
+    "timeStamp": 924032992.0,
+    "distance": 6482.15,
+    "speed": 3.788,
+    "heartRate": 167.0
+  },
+  {
+    "latitude": 44.926339332014322,
+    "longitude": -123.03730328567326,
+    "timeStamp": 924032998.0,
+    "distance": 6502.43,
+    "speed": 3.742,
+    "heartRate": 169.0
+  },
+  {
+    "latitude": 44.926322149112821,
+    "longitude": -123.03756622597575,
+    "timeStamp": 924033005.0,
+    "distance": 6523.29,
+    "speed": 3.62,
+    "heartRate": 170.0
+  },
+  {
+    "latitude": 44.926325669512153,
+    "longitude": -123.03784408606589,
+    "timeStamp": 924033013.0,
+    "distance": 6545.48,
+    "speed": 3.471,
+    "heartRate": 168.0
+  },
+  {
+    "latitude": 44.926389371976256,
+    "longitude": -123.03812026977539,
+    "timeStamp": 924033021.0,
+    "distance": 6568.43,
+    "speed": 3.312,
+    "heartRate": 168.0
+  },
+  {
+    "latitude": 44.926413847133517,
+    "longitude": -123.03837725892663,
+    "timeStamp": 924033028.0,
+    "distance": 6588.88,
+    "speed": 3.191,
+    "heartRate": 167.0
+  },
+  {
+    "latitude": 44.92641200311482,
+    "longitude": -123.03867221809924,
+    "timeStamp": 924033035.0,
+    "distance": 6612.05,
+    "speed": 3.2,
+    "heartRate": 174.0
+  },
+  {
+    "latitude": 44.926408985629678,
+    "longitude": -123.0387572105974,
+    "timeStamp": 924033037.0,
+    "distance": 6618.75,
+    "speed": 3.219,
+    "heartRate": 178.0
+  },
+  {
+    "latitude": 44.926496827974916,
+    "longitude": -123.03897220641375,
+    "timeStamp": 924033044.0,
+    "distance": 6639.87,
+    "speed": 3.21,
+    "heartRate": 177.0
+  },
+  {
+    "latitude": 44.926662538200617,
+    "longitude": -123.03910824470222,
+    "timeStamp": 924033050.0,
+    "distance": 6660.91,
+    "speed": 3.238,
+    "heartRate": 177.0
+  },
+  {
+    "latitude": 44.926852723583579,
+    "longitude": -123.03924436680973,
+    "timeStamp": 924033057.0,
+    "distance": 6684.36,
+    "speed": 3.266,
+    "heartRate": 175.0
+  },
+  {
+    "latitude": 44.927039640024304,
+    "longitude": -123.03935048170388,
+    "timeStamp": 924033063.0,
+    "distance": 6706.51,
+    "speed": 3.312,
+    "heartRate": 173.0
+  },
+  {
+    "latitude": 44.927152376621962,
+    "longitude": -123.03939859382808,
+    "timeStamp": 924033067.0,
+    "distance": 6719.37,
+    "speed": 3.331,
+    "heartRate": 169.0
+  },
+  {
+    "latitude": 44.927342897281051,
+    "longitude": -123.03952482528985,
+    "timeStamp": 924033074.0,
+    "distance": 6742.64,
+    "speed": 3.322,
+    "heartRate": 167.0
+  },
+  {
+    "latitude": 44.9274664465338,
+    "longitude": -123.03973856382072,
+    "timeStamp": 924033080.0,
+    "distance": 6764.48,
+    "speed": 3.368,
+    "heartRate": 167.0
+  },
+  {
+    "latitude": 44.9275631736964,
+    "longitude": -123.0399776995182,
+    "timeStamp": 924033086.0,
+    "distance": 6786.18,
+    "speed": 3.387,
+    "heartRate": 167.0
+  },
+  {
+    "latitude": 44.9277323205024,
+    "longitude": -123.04010468535125,
+    "timeStamp": 924033092.0,
+    "distance": 6807.61,
+    "speed": 3.424,
+    "heartRate": 169.0
+  },
+  {
+    "latitude": 44.927929881960154,
+    "longitude": -123.04010636173189,
+    "timeStamp": 924033098.0,
+    "distance": 6829.46,
+    "speed": 3.471,
+    "heartRate": 168.0
+  },
+  {
+    "latitude": 44.928121324628592,
+    "longitude": -123.04012999869883,
+    "timeStamp": 924033104.0,
+    "distance": 6850.78,
+    "speed": 3.471,
+    "heartRate": 170.0
+  },
+  {
+    "latitude": 44.928312515839934,
+    "longitude": -123.0401610955596,
+    "timeStamp": 924033110.0,
+    "distance": 6872.08,
+    "speed": 3.499,
+    "heartRate": 167.0
+  },
+  {
+    "latitude": 44.928498174995184,
+    "longitude": -123.04015388712287,
+    "timeStamp": 924033116.0,
+    "distance": 6892.97,
+    "speed": 3.462,
+    "heartRate": 165.0
+  },
+  {
+    "latitude": 44.9286752846092,
+    "longitude": -123.04006855934858,
+    "timeStamp": 924033122.0,
+    "distance": 6913.74,
+    "speed": 3.48,
+    "heartRate": 167.0
+  },
+  {
+    "latitude": 44.928741836920381,
+    "longitude": -123.0400400608778,
+    "timeStamp": 924033124.0,
+    "distance": 6921.48,
+    "speed": 3.471,
+    "heartRate": 170.0
+  },
+  {
+    "latitude": 44.928933782503009,
+    "longitude": -123.03997644223273,
+    "timeStamp": 924033129.0,
+    "distance": 6943.39,
+    "speed": 3.564,
+    "heartRate": 168.0
+  },
+  {
+    "latitude": 44.9291258957237,
+    "longitude": -123.03991986438632,
+    "timeStamp": 924033134.0,
+    "distance": 6965.21,
+    "speed": 3.611,
+    "heartRate": 166.0
+  },
+  {
+    "latitude": 44.929307699203491,
+    "longitude": -123.03986261598766,
+    "timeStamp": 924033139.0,
+    "distance": 6985.91,
+    "speed": 3.658,
+    "heartRate": 168.0
+  },
+  {
+    "latitude": 44.929485647007823,
+    "longitude": -123.03982263430953,
+    "timeStamp": 924033144.0,
+    "distance": 7005.93,
+    "speed": 3.686,
+    "heartRate": 168.0
+  },
+  {
+    "latitude": 44.929664097726345,
+    "longitude": -123.03976622410119,
+    "timeStamp": 924033149.0,
+    "distance": 7026.26,
+    "speed": 3.751,
+    "heartRate": 168.0
+  },
+  {
+    "latitude": 44.929868448525667,
+    "longitude": -123.03971651941538,
+    "timeStamp": 924033155.0,
+    "distance": 7049.31,
+    "speed": 3.732,
+    "heartRate": 167.0
+  },
+  {
+    "latitude": 44.930022759363055,
+    "longitude": -123.03967284969985,
+    "timeStamp": 924033159.0,
+    "distance": 7066.79,
+    "speed": 3.798,
+    "heartRate": 170.0
+  },
+  {
+    "latitude": 44.930216716602445,
+    "longitude": -123.03962515667081,
+    "timeStamp": 924033165.0,
+    "distance": 7088.68,
+    "speed": 3.91,
+    "heartRate": 171.0
+  },
+  {
+    "latitude": 44.930372117087245,
+    "longitude": -123.0395564250648,
+    "timeStamp": 924033170.0,
+    "distance": 7106.82,
+    "speed": 3.751,
+    "heartRate": 168.0
+  },
+  {
+    "latitude": 44.930565319955349,
+    "longitude": -123.03944930434227,
+    "timeStamp": 924033176.0,
+    "distance": 7129.9,
+    "speed": 3.798,
+    "heartRate": 168.0
+  },
+  {
+    "latitude": 44.930745111778378,
+    "longitude": -123.03936791606247,
+    "timeStamp": 924033182.0,
+    "distance": 7150.91,
+    "speed": 3.751,
+    "heartRate": 169.0
+  },
+  {
+    "latitude": 44.930883161723614,
+    "longitude": -123.0394993443042,
+    "timeStamp": 924033189.0,
+    "distance": 7172.05,
+    "speed": 3.676,
+    "heartRate": 168.0
+  },
+  {
+    "latitude": 44.930943846702576,
+    "longitude": -123.0397533159703,
+    "timeStamp": 924033195.0,
+    "distance": 7193.21,
+    "speed": 3.695,
+    "heartRate": 167.0
+  },
+  {
+    "latitude": 44.9310118239373,
+    "longitude": -123.04000125266612,
+    "timeStamp": 924033201.0,
+    "distance": 7214.18,
+    "speed": 3.686,
+    "heartRate": 167.0
+  },
+  {
+    "latitude": 44.931054823100567,
+    "longitude": -123.04025983437896,
+    "timeStamp": 924033207.0,
+    "distance": 7235.17,
+    "speed": 3.658,
+    "heartRate": 167.0
+  },
+  {
+    "latitude": 44.93107795715332,
+    "longitude": -123.04052386432886,
+    "timeStamp": 924033213.0,
+    "distance": 7256.17,
+    "speed": 3.658,
+    "heartRate": 167.0
+  },
+  {
+    "latitude": 44.931106623262167,
+    "longitude": -123.04081530310214,
+    "timeStamp": 924033220.0,
+    "distance": 7279.4,
+    "speed": 3.611,
+    "heartRate": 167.0
+  },
+  {
+    "latitude": 44.9310720898211,
+    "longitude": -123.04100406356156,
+    "timeStamp": 924033225.0,
+    "distance": 7295.72,
+    "speed": 3.583,
+    "heartRate": 165.0
+  },
+  {
+    "latitude": 44.930884419009089,
+    "longitude": -123.04103851318359,
+    "timeStamp": 924033231.0,
+    "distance": 7317.02,
+    "speed": 3.574,
+    "heartRate": 166.0
+  },
+  {
+    "latitude": 44.930688366293907,
+    "longitude": -123.04104505106807,
+    "timeStamp": 924033237.0,
+    "distance": 7338.82,
+    "speed": 3.583,
+    "heartRate": 165.0
+  },
+  {
+    "latitude": 44.930490553379059,
+    "longitude": -123.04105645045638,
+    "timeStamp": 924033243.0,
+    "distance": 7360.82,
+    "speed": 3.602,
+    "heartRate": 164.0
+  },
+  {
+    "latitude": 44.930361639708281,
+    "longitude": -123.0410572886467,
+    "timeStamp": 924033247.0,
+    "distance": 7375.13,
+    "speed": 3.611,
+    "heartRate": 168.0
+  },
+  {
+    "latitude": 44.93016567081213,
+    "longitude": -123.0410641618073,
+    "timeStamp": 924033253.0,
+    "distance": 7396.92,
+    "speed": 3.62,
+    "heartRate": 167.0
+  },
+  {
+    "latitude": 44.929959140717983,
+    "longitude": -123.0410742200911,
+    "timeStamp": 924033259.0,
+    "distance": 7419.91,
+    "speed": 3.648,
+    "heartRate": 168.0
+  },
+  {
+    "latitude": 44.929756131023169,
+    "longitude": -123.04108545184135,
+    "timeStamp": 924033265.0,
+    "distance": 7442.49,
+    "speed": 3.658,
+    "heartRate": 170.0
+  },
+  {
+    "latitude": 44.929553959518671,
+    "longitude": -123.04110984317958,
+    "timeStamp": 924033271.0,
+    "distance": 7465.04,
+    "speed": 3.676,
+    "heartRate": 167.0
+  },
+  {
+    "latitude": 44.929350111633539,
+    "longitude": -123.04112551733851,
+    "timeStamp": 924033277.0,
+    "distance": 7487.73,
+    "speed": 3.686,
+    "heartRate": 167.0
+  },
+  {
+    "latitude": 44.929145257920027,
+    "longitude": -123.04113456979394,
+    "timeStamp": 924033283.0,
+    "distance": 7510.51,
+    "speed": 3.704,
+    "heartRate": 168.0
+  },
+  {
+    "latitude": 44.928946606814861,
+    "longitude": -123.04114337079227,
+    "timeStamp": 924033289.0,
+    "distance": 7532.59,
+    "speed": 3.704,
+    "heartRate": 169.0
+  },
+  {
+    "latitude": 44.928753823041916,
+    "longitude": -123.04119190201163,
+    "timeStamp": 924033295.0,
+    "distance": 7554.3,
+    "speed": 3.714,
+    "heartRate": 171.0
+  },
+  {
+    "latitude": 44.928569085896015,
+    "longitude": -123.04121721535921,
+    "timeStamp": 924033301.0,
+    "distance": 7574.9,
+    "speed": 3.704,
+    "heartRate": 169.0
+  },
+  {
+    "latitude": 44.928387450054288,
+    "longitude": -123.04123523645103,
+    "timeStamp": 924033307.0,
+    "distance": 7595.14,
+    "speed": 3.676,
+    "heartRate": 167.0
+  },
+  {
+    "latitude": 44.928201790899038,
+    "longitude": -123.04124479182065,
+    "timeStamp": 924033313.0,
+    "distance": 7615.72,
+    "speed": 3.658,
+    "heartRate": 166.0
+  },
+  {
+    "latitude": 44.928020741790533,
+    "longitude": -123.04125686176121,
+    "timeStamp": 924033319.0,
+    "distance": 7635.86,
+    "speed": 3.62,
+    "heartRate": 167.0
+  },
+  {
+    "latitude": 44.9278272036463,
+    "longitude": -123.04125451482832,
+    "timeStamp": 924033325.0,
+    "distance": 7657.4,
+    "speed": 3.611,
+    "heartRate": 165.0
+  },
+  {
+    "latitude": 44.927643556147814,
+    "longitude": -123.04128150455654,
+    "timeStamp": 924033331.0,
+    "distance": 7677.9,
+    "speed": 3.592,
+    "heartRate": 164.0
+  },
+  {
+    "latitude": 44.927548002451658,
+    "longitude": -123.04128753952682,
+    "timeStamp": 924033334.0,
+    "distance": 7688.52,
+    "speed": 3.583,
+    "heartRate": 167.0
+  },
+  {
+    "latitude": 44.92736728861928,
+    "longitude": -123.04132961668074,
+    "timeStamp": 924033340.0,
+    "distance": 7708.8,
+    "speed": 3.564,
+    "heartRate": 169.0
+  },
+  {
+    "latitude": 44.927171403542161,
+    "longitude": -123.04132668301463,
+    "timeStamp": 924033346.0,
+    "distance": 7730.49,
+    "speed": 3.546,
+    "heartRate": 168.0
+  },
+  {
+    "latitude": 44.926977949216962,
+    "longitude": -123.04131251759827,
+    "timeStamp": 924033352.0,
+    "distance": 7751.98,
+    "speed": 3.564,
+    "heartRate": 171.0
+  },
+  {
+    "latitude": 44.926765384152532,
+    "longitude": -123.04132089950144,
+    "timeStamp": 924033359.0,
+    "distance": 7775.54,
+    "speed": 3.536,
+    "heartRate": 169.0
+  },
+  {
+    "latitude": 44.926565643399954,
+    "longitude": -123.04132224060595,
+    "timeStamp": 924033365.0,
+    "distance": 7797.86,
+    "speed": 3.536,
+    "heartRate": 168.0
+  },
+  {
+    "latitude": 44.9264304433018,
+    "longitude": -123.04134822450578,
+    "timeStamp": 924033369.0,
+    "distance": 7813.04,
+    "speed": 3.564,
+    "heartRate": 165.0
+  },
+  {
+    "latitude": 44.926287112757564,
+    "longitude": -123.04141854867339,
+    "timeStamp": 924033373.0,
+    "distance": 7829.84,
+    "speed": 3.639,
+    "heartRate": 168.0
+  },
+  {
+    "latitude": 44.926093993708491,
+    "longitude": -123.04151703603566,
+    "timeStamp": 924033379.0,
+    "distance": 7852.8,
+    "speed": 3.667,
+    "heartRate": 165.0
+  },
+  {
+    "latitude": 44.925896935164928,
+    "longitude": -123.04153321310878,
+    "timeStamp": 924033385.0,
+    "distance": 7874.73,
+    "speed": 3.648,
+    "heartRate": 165.0
+  },
+  {
+    "latitude": 44.92571622133255,
+    "longitude": -123.04155006073415,
+    "timeStamp": 924033391.0,
+    "distance": 7894.86,
+    "speed": 3.592,
+    "heartRate": 165.0
+  },
+  {
+    "latitude": 44.925514217466116,
+    "longitude": -123.04156992584467,
+    "timeStamp": 924033397.0,
+    "distance": 7917.36,
+    "speed": 3.611,
+    "heartRate": 166.0
+  },
+  {
+    "latitude": 44.925322690978646,
+    "longitude": -123.04157654754817,
+    "timeStamp": 924033403.0,
+    "distance": 7938.64,
+    "speed": 3.611,
+    "heartRate": 166.0
+  },
+  {
+    "latitude": 44.925123117864132,
+    "longitude": -123.04158467799425,
+    "timeStamp": 924033409.0,
+    "distance": 7960.81,
+    "speed": 3.62,
+    "heartRate": 168.0
+  },
+  {
+    "latitude": 44.924959754571319,
+    "longitude": -123.04160932078958,
+    "timeStamp": 924033414.0,
+    "distance": 7979.07,
+    "speed": 3.648,
+    "heartRate": 171.0
+  },
+  {
+    "latitude": 44.924762444570661,
+    "longitude": -123.04163304157555,
+    "timeStamp": 924033420.0,
+    "distance": 8001.06,
+    "speed": 3.648,
+    "heartRate": 168.0
+  },
+  {
+    "latitude": 44.924630094319582,
+    "longitude": -123.04164988920093,
+    "timeStamp": 924033424.0,
+    "distance": 8015.82,
+    "speed": 3.648,
+    "heartRate": 165.0
+  },
+  {
+    "latitude": 44.924477459862828,
+    "longitude": -123.04168802686036,
+    "timeStamp": 924033429.0,
+    "distance": 8033.05,
+    "speed": 3.648,
+    "heartRate": 168.0
+  },
+  {
+    "latitude": 44.924349971115589,
+    "longitude": -123.04169280454516,
+    "timeStamp": 924033433.0,
+    "distance": 8047.22,
+    "speed": 3.63,
+    "heartRate": 165.0
+  },
+  {
+    "latitude": 44.924146374687552,
+    "longitude": -123.04169137962162,
+    "timeStamp": 924033439.0,
+    "distance": 8069.77,
+    "speed": 3.62,
+    "heartRate": 168.0
+  },
+  {
+    "latitude": 44.9240748770535,
+    "longitude": -123.04169255308807,
+    "timeStamp": 924033441.0,
+    "distance": 8077.69,
+    "speed": 3.63,
+    "heartRate": 171.0
+  },
+  {
+    "latitude": 44.924007570371032,
+    "longitude": -123.04170101881027,
+    "timeStamp": 924033443.0,
+    "distance": 8085.2,
+    "speed": 3.639,
+    "heartRate": 167.0
+  },
+  {
+    "latitude": 44.923807494342327,
+    "longitude": -123.04171744734049,
+    "timeStamp": 924033449.0,
+    "distance": 8107.43,
+    "speed": 3.648,
+    "heartRate": 168.0
+  },
+  {
+    "latitude": 44.923604065552354,
+    "longitude": -123.04170856252313,
+    "timeStamp": 924033455.0,
+    "distance": 8130.01,
+    "speed": 3.658,
+    "heartRate": 170.0
+  },
+  {
+    "latitude": 44.923413880169392,
+    "longitude": -123.04173085838556,
+    "timeStamp": 924033461.0,
+    "distance": 8151.27,
+    "speed": 3.639,
+    "heartRate": 169.0
+  },
+  {
+    "latitude": 44.923207433894277,
+    "longitude": -123.04174175485969,
+    "timeStamp": 924033467.0,
+    "distance": 8174.22,
+    "speed": 3.648,
+    "heartRate": 168.0
+  },
+  {
+    "latitude": 44.923025965690613,
+    "longitude": -123.04175751283765,
+    "timeStamp": 924033472.0,
+    "distance": 8194.42,
+    "speed": 3.676,
+    "heartRate": 167.0
+  },
+  {
+    "latitude": 44.922842821106315,
+    "longitude": -123.04177477955818,
+    "timeStamp": 924033477.0,
+    "distance": 8214.8,
+    "speed": 3.695,
+    "heartRate": 166.0
+  },
+  {
+    "latitude": 44.9226519651711,
+    "longitude": -123.04177846759558,
+    "timeStamp": 924033482.0,
+    "distance": 8236.01,
+    "speed": 3.751,
+    "heartRate": 165.0
+  },
+  {
+    "latitude": 44.922471083700657,
+    "longitude": -123.04178676567972,
+    "timeStamp": 924033487.0,
+    "distance": 8256.13,
+    "speed": 3.788,
+    "heartRate": 166.0
+  },
+  {
+    "latitude": 44.922375613823533,
+    "longitude": -123.04180235601962,
+    "timeStamp": 924033490.0,
+    "distance": 8266.81,
+    "speed": 3.779,
+    "heartRate": 169.0
+  },
+  {
+    "latitude": 44.922172352671623,
+    "longitude": -123.04182322695851,
+    "timeStamp": 924033496.0,
+    "distance": 8289.45,
+    "speed": 3.807,
+    "heartRate": 171.0
+  },
+  {
+    "latitude": 44.921982083469629,
+    "longitude": -123.04184594191611,
+    "timeStamp": 924033502.0,
+    "distance": 8310.68,
+    "speed": 3.788,
+    "heartRate": 170.0
+  },
+  {
+    "latitude": 44.921786785125732,
+    "longitude": -123.04185851477087,
+    "timeStamp": 924033509.0,
+    "distance": 8332.38,
+    "speed": 3.714,
+    "heartRate": 168.0
+  },
+  {
+    "latitude": 44.921589475125074,
+    "longitude": -123.04190235212445,
+    "timeStamp": 924033516.0,
+    "distance": 8354.57,
+    "speed": 3.602,
+    "heartRate": 167.0
+  },
+  {
+    "latitude": 44.921402307227254,
+    "longitude": -123.04192163050175,
+    "timeStamp": 924033522.0,
+    "distance": 8375.4,
+    "speed": 3.592,
+    "heartRate": 168.0
+  },
+  {
+    "latitude": 44.921310776844621,
+    "longitude": -123.04193126969039,
+    "timeStamp": 924033525.0,
+    "distance": 8385.47,
+    "speed": 3.583,
+    "heartRate": 168.0
+  },
+  {
+    "latitude": 44.921253360807896,
+    "longitude": -123.04219253361225,
+    "timeStamp": 924033532.0,
+    "distance": 8407.62,
+    "speed": 3.508,
+    "heartRate": 168.0
+  },
+  {
+    "latitude": 44.921257216483355,
+    "longitude": -123.04248648695648,
+    "timeStamp": 924033539.0,
+    "distance": 8430.81,
+    "speed": 3.499,
+    "heartRate": 167.0
+  },
+  {
+    "latitude": 44.921267693862319,
+    "longitude": -123.04275965318084,
+    "timeStamp": 924033546.0,
+    "distance": 8452.43,
+    "speed": 3.48,
+    "heartRate": 166.0
+  },
+  {
+    "latitude": 44.921238357201219,
+    "longitude": -123.04303583689034,
+    "timeStamp": 924033552.0,
+    "distance": 8474.57,
+    "speed": 3.49,
+    "heartRate": 168.0
+  },
+  {
+    "latitude": 44.921217067167163,
+    "longitude": -123.04324429482222,
+    "timeStamp": 924033556.0,
+    "distance": 8491.2,
+    "speed": 3.602,
+    "heartRate": 171.0
+  },
+  {
+    "latitude": 44.921216648072004,
+    "longitude": -123.04350706748664,
+    "timeStamp": 924033562.0,
+    "distance": 8511.92,
+    "speed": 3.592,
+    "heartRate": 171.0
+  },
+  {
+    "latitude": 44.921253612264991,
+    "longitude": -123.04376112297177,
+    "timeStamp": 924033568.0,
+    "distance": 8532.56,
+    "speed": 3.583,
+    "heartRate": 169.0
+  },
+  {
+    "latitude": 44.921281691640615,
+    "longitude": -123.04404837079346,
+    "timeStamp": 924033575.0,
+    "distance": 8555.58,
+    "speed": 3.508,
+    "heartRate": 171.0
+  },
+  {
+    "latitude": 44.921281272545457,
+    "longitude": -123.04433888755739,
+    "timeStamp": 924033582.0,
+    "distance": 8578.58,
+    "speed": 3.406,
+    "heartRate": 169.0
+  },
+  {
+    "latitude": 44.921288648620248,
+    "longitude": -123.04444089531898,
+    "timeStamp": 924033585.0,
+    "distance": 8586.66,
+    "speed": 3.35,
+    "heartRate": 170.0
+  },
+  {
+    "latitude": 44.921275908127427,
+    "longitude": -123.04451549425721,
+    "timeStamp": 924033623.0,
+    "distance": 8586.93,
+    "speed": 0.0,
+    "heartRate": 166.0
+  },
+  {
+    "latitude": 44.92126970551908,
+    "longitude": -123.04459822364151,
+    "timeStamp": 924033626.0,
+    "distance": 8593.54,
+    "speed": 1.558,
+    "heartRate": 165.0
+  },
+  {
+    "latitude": 44.921288229525089,
+    "longitude": -123.04489485919476,
+    "timeStamp": 924033632.0,
+    "distance": 8617.07,
+    "speed": 3.826,
+    "heartRate": 166.0
+  },
+  {
+    "latitude": 44.921296108514071,
+    "longitude": -123.0451637506485,
+    "timeStamp": 924033638.0,
+    "distance": 8638.34,
+    "speed": 3.583,
+    "heartRate": 164.0
+  },
+  {
+    "latitude": 44.921296359971166,
+    "longitude": -123.04520951583982,
+    "timeStamp": 924033639.0,
+    "distance": 8641.95,
+    "speed": 3.583,
+    "heartRate": 161.0
+  },
+  {
+    "latitude": 44.9212964437902,
+    "longitude": -123.04525402374566,
+    "timeStamp": 924033640.0,
+    "distance": 8645.46,
+    "speed": 3.583,
+    "heartRate": 158.0
+  },
+  {
+    "latitude": 44.921288229525089,
+    "longitude": -123.04533834569156,
+    "timeStamp": 924033642.0,
+    "distance": 8652.19,
+    "speed": 3.564,
+    "heartRate": 155.0
+  },
+  {
+    "latitude": 44.921254366636276,
+    "longitude": -123.04561000317335,
+    "timeStamp": 924033648.0,
+    "distance": 8673.99,
+    "speed": 3.555,
+    "heartRate": 157.0
+  },
+  {
+    "latitude": 44.921242548152804,
+    "longitude": -123.045844277367,
+    "timeStamp": 924033653.0,
+    "distance": 8692.59,
+    "speed": 3.583,
+    "heartRate": 160.0
+  },
+  {
+    "latitude": 44.921238776296377,
+    "longitude": -123.04611199535429,
+    "timeStamp": 924033659.0,
+    "distance": 8713.72,
+    "speed": 3.555,
+    "heartRate": 164.0
+  },
+  {
+    "latitude": 44.921234585344791,
+    "longitude": -123.04620629176497,
+    "timeStamp": 924033661.0,
+    "distance": 8721.18,
+    "speed": 3.555,
+    "heartRate": 168.0
+  },
+  {
+    "latitude": 44.921238524839282,
+    "longitude": -123.04648457095027,
+    "timeStamp": 924033667.0,
+    "distance": 8743.17,
+    "speed": 3.564,
+    "heartRate": 166.0
+  },
+  {
+    "latitude": 44.921243386343122,
+    "longitude": -123.04675145074725,
+    "timeStamp": 924033673.0,
+    "distance": 8764.25,
+    "speed": 3.564,
+    "heartRate": 166.0
+  },
+  {
+    "latitude": 44.921255623921752,
+    "longitude": -123.04701807908714,
+    "timeStamp": 924033679.0,
+    "distance": 8785.34,
+    "speed": 3.546,
+    "heartRate": 168.0
+  },
+  {
+    "latitude": 44.921274315565825,
+    "longitude": -123.04729568772018,
+    "timeStamp": 924033686.0,
+    "distance": 8807.36,
+    "speed": 3.508,
+    "heartRate": 168.0
+  },
+  {
+    "latitude": 44.921292588114738,
+    "longitude": -123.04758595302701,
+    "timeStamp": 924033693.0,
+    "distance": 8830.38,
+    "speed": 3.48,
+    "heartRate": 168.0
+  },
+  {
+    "latitude": 44.9213099386543,
+    "longitude": -123.04780430160463,
+    "timeStamp": 924033698.0,
+    "distance": 8847.73,
+    "speed": 3.462,
+    "heartRate": 171.0
+  },
+  {
+    "latitude": 44.921322679147124,
+    "longitude": -123.04806053638458,
+    "timeStamp": 924033704.0,
+    "distance": 8868.03,
+    "speed": 3.462,
+    "heartRate": 172.0
+  },
+  {
+    "latitude": 44.921321254223585,
+    "longitude": -123.04834401234984,
+    "timeStamp": 924033711.0,
+    "distance": 8890.76,
+    "speed": 3.434,
+    "heartRate": 171.0
+  },
+  {
+    "latitude": 44.921290744096041,
+    "longitude": -123.04860452190042,
+    "timeStamp": 924033717.0,
+    "distance": 8911.73,
+    "speed": 3.434,
+    "heartRate": 171.0
+  },
+  {
+    "latitude": 44.921286217868328,
+    "longitude": -123.04885866120458,
+    "timeStamp": 924033723.0,
+    "distance": 8931.83,
+    "speed": 3.424,
+    "heartRate": 171.0
+  },
+  {
+    "latitude": 44.92129024118185,
+    "longitude": -123.04912596009672,
+    "timeStamp": 924033729.0,
+    "distance": 8952.99,
+    "speed": 3.424,
+    "heartRate": 170.0
+  },
+  {
+    "latitude": 44.921309687197208,
+    "longitude": -123.04938470944762,
+    "timeStamp": 924033735.0,
+    "distance": 8973.56,
+    "speed": 3.424,
+    "heartRate": 170.0
+  },
+  {
+    "latitude": 44.92133516818285,
+    "longitude": -123.04962962865829,
+    "timeStamp": 924033741.0,
+    "distance": 8993.14,
+    "speed": 3.406,
+    "heartRate": 179.0
+  },
+  {
+    "latitude": 44.921334916725755,
+    "longitude": -123.04967036470771,
+    "timeStamp": 924033742.0,
+    "distance": 8996.35,
+    "speed": 3.396,
+    "heartRate": 178.0
+  },
+  {
+    "latitude": 44.92131857201457,
+    "longitude": -123.04996540769935,
+    "timeStamp": 924033749.0,
+    "distance": 9019.73,
+    "speed": 3.387,
+    "heartRate": 179.0
+  },
+  {
+    "latitude": 44.92133516818285,
+    "longitude": -123.05024896748364,
+    "timeStamp": 924033756.0,
+    "distance": 9042.23,
+    "speed": 3.35,
+    "heartRate": 178.0
+  },
+  {
+    "latitude": 44.92140063084662,
+    "longitude": -123.0505012627691,
+    "timeStamp": 924033762.0,
+    "distance": 9063.49,
+    "speed": 3.35,
+    "heartRate": 178.0
+  },
+  {
+    "latitude": 44.921446898952127,
+    "longitude": -123.05077996104956,
+    "timeStamp": 924033768.0,
+    "distance": 9086.1,
+    "speed": 3.415,
+    "heartRate": 175.0
+  },
+  {
+    "latitude": 44.921457376331091,
+    "longitude": -123.05091457441449,
+    "timeStamp": 924033771.0,
+    "distance": 9096.79,
+    "speed": 3.434,
+    "heartRate": 178.0
+  },
+  {
+    "latitude": 44.921463578939438,
+    "longitude": -123.05100526660681,
+    "timeStamp": 924033773.0,
+    "distance": 9103.99,
+    "speed": 3.443,
+    "heartRate": 175.0
+  },
+  {
+    "latitude": 44.921479588374496,
+    "longitude": -123.05127373896539,
+    "timeStamp": 924033779.0,
+    "distance": 9125.28,
+    "speed": 3.452,
+    "heartRate": 174.0
+  },
+  {
+    "latitude": 44.921493921428919,
+    "longitude": -123.05150063708425,
+    "timeStamp": 924033784.0,
+    "distance": 9143.32,
+    "speed": 3.462,
+    "heartRate": 170.0
+  },
+  {
+    "latitude": 44.921505488455296,
+    "longitude": -123.0517758987844,
+    "timeStamp": 924033790.0,
+    "distance": 9165.1,
+    "speed": 3.48,
+    "heartRate": 169.0
+  },
+  {
+    "latitude": 44.921506075188518,
+    "longitude": -123.05204504169524,
+    "timeStamp": 924033796.0,
+    "distance": 9186.38,
+    "speed": 3.48,
+    "heartRate": 169.0
+  },
+  {
+    "latitude": 44.921508841216564,
+    "longitude": -123.05231468752027,
+    "timeStamp": 924033802.0,
+    "distance": 9207.69,
+    "speed": 3.499,
+    "heartRate": 166.0
+  },
+  {
+    "latitude": 44.921504985541105,
+    "longitude": -123.05258022621274,
+    "timeStamp": 924033808.0,
+    "distance": 9228.67,
+    "speed": 3.508,
+    "heartRate": 167.0
+  },
+  {
+    "latitude": 44.92148076184094,
+    "longitude": -123.05282623507082,
+    "timeStamp": 924033814.0,
+    "distance": 9248.28,
+    "speed": 3.48,
+    "heartRate": 170.0
+  },
+  {
+    "latitude": 44.921522168442607,
+    "longitude": -123.05310778319836,
+    "timeStamp": 924033821.0,
+    "distance": 9271.15,
+    "speed": 3.452,
+    "heartRate": 170.0
+  },
+  {
+    "latitude": 44.921611016616225,
+    "longitude": -123.05334440432489,
+    "timeStamp": 924033827.0,
+    "distance": 9292.32,
+    "speed": 3.462,
+    "heartRate": 171.0
+  },
+  {
+    "latitude": 44.92156676016748,
+    "longitude": -123.05358806625009,
+    "timeStamp": 924033834.0,
+    "distance": 9313.81,
+    "speed": 3.331,
+    "heartRate": 169.0
+  },
+  {
+    "latitude": 44.921538596972823,
+    "longitude": -123.05379258468747,
+    "timeStamp": 924033840.0,
+    "distance": 9331.17,
+    "speed": 3.182,
+    "heartRate": 166.0
+  },
+  {
+    "latitude": 44.921531388536096,
+    "longitude": -123.05408502928913,
+    "timeStamp": 924033846.0,
+    "distance": 9354.3,
+    "speed": 3.275,
+    "heartRate": 167.0
+  },
+  {
+    "latitude": 44.921565083786845,
+    "longitude": -123.05435693822801,
+    "timeStamp": 924033854.0,
+    "distance": 9376.12,
+    "speed": 3.172,
+    "heartRate": 169.0
+  },
+  {
+    "latitude": 44.921572208404541,
+    "longitude": -123.05464225821197,
+    "timeStamp": 924033861.0,
+    "distance": 9398.66,
+    "speed": 3.284,
+    "heartRate": 170.0
+  },
+  {
+    "latitude": 44.921506997197866,
+    "longitude": -123.05488047190011,
+    "timeStamp": 924033868.0,
+    "distance": 9419.39,
+    "speed": 3.219,
+    "heartRate": 172.0
+  },
+  {
+    "latitude": 44.92134933359921,
+    "longitude": -123.05505967698991,
+    "timeStamp": 924033875.0,
+    "distance": 9441.9,
+    "speed": 3.172,
+    "heartRate": 171.0
+  },
+  {
+    "latitude": 44.92121740244329,
+    "longitude": -123.05527844466269,
+    "timeStamp": 924033882.0,
+    "distance": 9464.84,
+    "speed": 3.144,
+    "heartRate": 169.0
+  },
+  {
+    "latitude": 44.921167865395546,
+    "longitude": -123.05554104968905,
+    "timeStamp": 924033888.0,
+    "distance": 9486.29,
+    "speed": 3.144,
+    "heartRate": 169.0
+  },
+  {
+    "latitude": 44.921076083555818,
+    "longitude": -123.05580818094313,
+    "timeStamp": 924033895.0,
+    "distance": 9510.32,
+    "speed": 3.191,
+    "heartRate": 170.0
+  },
+  {
+    "latitude": 44.92093157954514,
+    "longitude": -123.05600540712476,
+    "timeStamp": 924033902.0,
+    "distance": 9532.7,
+    "speed": 3.228,
+    "heartRate": 171.0
+  },
+  {
+    "latitude": 44.9208801984787,
+    "longitude": -123.05610381066799,
+    "timeStamp": 924033905.0,
+    "distance": 9542.32,
+    "speed": 3.219,
+    "heartRate": 168.0
+  },
+  {
+    "latitude": 44.920773077756166,
+    "longitude": -123.05632676929235,
+    "timeStamp": 924033911.0,
+    "distance": 9563.61,
+    "speed": 3.144,
+    "heartRate": 166.0
+  },
+  {
+    "latitude": 44.920687917619944,
+    "longitude": -123.05656573735178,
+    "timeStamp": 924033916.0,
+    "distance": 9584.69,
+    "speed": 3.219,
+    "heartRate": 167.0
+  },
+  {
+    "latitude": 44.920658497139812,
+    "longitude": -123.05670965462923,
+    "timeStamp": 924033919.0,
+    "distance": 9596.6,
+    "speed": 3.312,
+    "heartRate": 170.0
+  },
+  {
+    "latitude": 44.92062714882195,
+    "longitude": -123.0568477883935,
+    "timeStamp": 924033922.0,
+    "distance": 9608.19,
+    "speed": 3.312,
+    "heartRate": 172.0
+  },
+  {
+    "latitude": 44.920487506315112,
+    "longitude": -123.057023556903,
+    "timeStamp": 924033929.0,
+    "distance": 9628.82,
+    "speed": 3.032,
+    "heartRate": 171.0
+  },
+  {
+    "latitude": 44.92032028734684,
+    "longitude": -123.05716697126627,
+    "timeStamp": 924033934.0,
+    "distance": 9650.53,
+    "speed": 3.266,
+    "heartRate": 171.0
+  },
+  {
+    "latitude": 44.920275695621967,
+    "longitude": -123.05723327212036,
+    "timeStamp": 924033936.0,
+    "distance": 9657.76,
+    "speed": 3.303,
+    "heartRate": 171.0
+  },
+  {
+    "latitude": 44.920181483030319,
+    "longitude": -123.05747995153069,
+    "timeStamp": 924033942.0,
+    "distance": 9679.86,
+    "speed": 3.396,
+    "heartRate": 172.0
+  },
+  {
+    "latitude": 44.92004276253283,
+    "longitude": -123.05766167119145,
+    "timeStamp": 924033947.0,
+    "distance": 9700.95,
+    "speed": 3.686,
+    "heartRate": 169.0
+  },
+  {
+    "latitude": 44.91989272646606,
+    "longitude": -123.05776979774237,
+    "timeStamp": 924033952.0,
+    "distance": 9720.3,
+    "speed": 3.443,
+    "heartRate": 170.0
+  },
+  {
+    "latitude": 44.919743612408638,
+    "longitude": -123.05760165676475,
+    "timeStamp": 924033958.0,
+    "distance": 9742.12,
+    "speed": 3.48,
+    "heartRate": 168.0
+  },
+  {
+    "latitude": 44.919559294357896,
+    "longitude": -123.05774205364287,
+    "timeStamp": 924033964.0,
+    "distance": 9766.16,
+    "speed": 3.732,
+    "heartRate": 169.0
+  },
+  {
+    "latitude": 44.919421914964914,
+    "longitude": -123.05796006694436,
+    "timeStamp": 924033969.0,
+    "distance": 9789.16,
+    "speed": 3.891,
+    "heartRate": 171.0
+  },
+  {
+    "latitude": 44.919276488944888,
+    "longitude": -123.05813508108258,
+    "timeStamp": 924033974.0,
+    "distance": 9810.58,
+    "speed": 3.835,
+    "heartRate": 171.0
+  },
+  {
+    "latitude": 44.919098624959588,
+    "longitude": -123.05823725648224,
+    "timeStamp": 924033979.0,
+    "distance": 9831.92,
+    "speed": 3.956,
+    "heartRate": 170.0
+  },
+  {
+    "latitude": 44.918962335214019,
+    "longitude": -123.05830313824117,
+    "timeStamp": 924033984.0,
+    "distance": 9847.95,
+    "speed": 3.742,
+    "heartRate": 171.0
+  }
+]

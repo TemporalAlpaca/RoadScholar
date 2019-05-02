@@ -8,6 +8,7 @@ using Microsoft.AspNetCore.Mvc;
 using Dynastream.Fit;
 using Newtonsoft.Json;
 using Microsoft.AspNetCore.JsonPatch;
+using Microsoft.Extensions.Configuration;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
@@ -29,9 +30,14 @@ namespace road_scholar.Controllers
 
         // GET: api/<controller>
         [HttpGet]
-        public IEnumerable<string> Get()
+        public int GetNumJsonFiles()
         {
-            return new string[] { "value1", "value2" };
+            IConfigurationBuilder builder = new ConfigurationBuilder().SetBasePath(Directory.GetCurrentDirectory())
+                .AddUserSecrets<Startup>();
+            var configuration = builder.Build();
+
+            //Temporary JsonPath
+            return Directory.GetFiles(configuration["JsonPath"], "*", SearchOption.TopDirectoryOnly).Length;
         }
 
         // GET api/<controller>/5

@@ -10,6 +10,7 @@
 
     <!-- Set this to true if you enable server-side prerendering -->
     <BuildServerSideRenderer>false</BuildServerSideRenderer>
+    <UserSecretsId>9df45319-f87b-4a4a-ac7e-b09e3726b6c8</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
@@ -27,7 +28,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Content Include="ClientApp\src\assets\Paths.json" />
+    <Content Include="ClientApp\src\assets\JsonPaths\Paths2.json" />
+    <Content Include="ClientApp\src\assets\JsonPaths\Paths1.json" />
   </ItemGroup>
 
   <Target Name="DebugEnsureNodeEnv" BeforeTargets="Build" Condition=" '$(Configuration)' == 'Debug' And !Exists('$(SpaRoot)node_modules') ">
